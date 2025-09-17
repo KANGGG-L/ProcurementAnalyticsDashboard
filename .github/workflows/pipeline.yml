@@ -18,17 +18,13 @@ jobs:
         with:
           python-version: 3.13
 
-      - name: Install dependencies
+      - name: Install dependencies and run pipeline
         run: |
-          python -m venv dashboard
-          source dashboard/bin/activate
+          python -m venv venv
+          source venv/bin/activate
           pip install --upgrade pip
           pip install -r requirements.txt
-
-      - name: Run full pipeline
-        run: |
-          source dashboard/bin/activate
-          bash run_pipeline.sh
+          bash dashboard/src/run_pipeline.s
 
       - name: List generated files
         run: ls -R dashboard/data dashboard/powerbi_data
