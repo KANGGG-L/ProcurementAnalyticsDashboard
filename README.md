@@ -88,15 +88,15 @@ The automated workflow is implemented using **GitHub Actions**, with the followi
 
 ## Running the Project Locally
 
-# Create a virtual environment
+## Create a virtual environment
 python3.13 -m venv dashboard
 
-# Activate the virtual environment (Linux)
+## Activate the virtual environment (Linux)
 source dashboard/bin/activate
 
-# Install dependencies
+## Install dependencies
 python3.13 -m pip install --upgrade pip
 python3.13 -m pip install -r requirements.txt
 
-# Run pipline
+## Run pipline
 bash run_pipeline.sh
