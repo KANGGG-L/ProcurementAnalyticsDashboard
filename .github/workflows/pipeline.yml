@@ -24,7 +24,7 @@ jobs:
           source venv/bin/activate
           pip install --upgrade pip
           pip install -r requirements.txt
-          bash dashboard/src/run_pipeline.s
+          bash run_pipeline.sh
 
       - name: List generated files
         run: ls -R dashboard/data dashboard/powerbi_data
