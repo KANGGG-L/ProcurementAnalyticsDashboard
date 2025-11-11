@@ -71,5 +71,29 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
+# Step 7: Commit and Push Generated Data
+echo "=== Step 7: Committing generated data to repo ==="
+
+# Configure Git identity for the commit
+git config user.name "GitHub Actions Bot"
+git config user.email "actions@github.com"
+
+# Check for any changes in the dashboard/data and dashboard/powerbi_data directories
+git add "$PROJECT_ROOT/dashboard/data/"
+git add "$PROJECT_ROOT/dashboard/powerbi_data/"
+
+# Check if there are any files staged to commit
+if ! git diff-index --quiet --cached HEAD; then
+  COMMIT_MESSAGE="Auto-refresh data and forecasts ($(date +'%Y-%m-%d'))"
+  git commit -m "$COMMIT_MESSAGE"
+  
+  # Push the changes back to the origin branch
+  git push
+  echo "Successfully committed and pushed new data."
+else
+  echo "No data changes to commit."
+fi
+
+
 # If all steps succeeded, print success message
 echo "=== Pipeline completed successfully! ==="

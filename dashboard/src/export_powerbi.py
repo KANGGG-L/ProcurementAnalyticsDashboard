@@ -11,14 +11,14 @@ Responsibilities:
     4. Export curated CSVs for Power BI consumption.
 
 Final Outputs:
-    - invoices_curated.csv          (cleaned transaction-level data)
-    - risk_scores_curated.csv       (transactions + risk scores)
-    - supplier_summary_annual.csv   (annual contract compliance)
-    - supplier_summary_monthly.csv  (monthly spend trends)
-    - forecasting.csv               (monthly forecast)
-    - annual_forecast.csv           (annual forecast)
-    - kpis.csv                      (procurement KPIs)
-    - scenario_model.csv            (scenario modeling results)
+    - invoices.csv          (cleaned transaction-level data)
+    - risk_scores.csv       (transactions + risk scores)
+    - annual_summary.csv    (annual contract compliance)
+    - monthly_summary.csv   (monthly spend trends)
+    - monthly_forecast.csv  (monthly forecast)
+    - annual_forecast.csv   (annual forecast)
+    - kpis.csv              (procurement KPIs)
+    - scenario_model.csv    (scenario modeling results)
 """
 
 import pandas as pd
