@@ -9999,3 +9999,1003 @@ INV19997,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Serv
 INV19998,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,39450.87,2025-10-09,Management of Active Melbourne recreation facilities,3615,144,144,0,0
 INV19999,['ContractNumber'],['Provider'],Reino International Pty Ltd T/A Duncan Solutions,91040.79,2028-03-14,Parking technology services,3623,129,114,15,0
 INV20000,"['ContractTitle', 'ContractNumber']","['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,87219.31,2029-07-31,Graffiti management and pressure cleaning services, ,239,229,10,0
+INV20001,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,100000.0,2029-03-29,Vehicle tow away and impound services,3585,169,154,15,0
+INV20002,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,92917.0,2029-12-11,Vehicle tow away and impound services,3585,193,178,15,0
+INV20003,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,72019.49,2029-01-08,Management of Active Melbourne recreation facilities,3615,163,148,15,0
+INV20004,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,73627.48,2029-05-03,Tree management maintenance services,3678,159,144,15,0
+INV20005,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,207490.96,2025-02-10,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20006,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,133528.9,2026-09-22,Open spaces management - region 1,3676,154,154,0,0
+INV20007,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,29405.06,2028-09-18,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20008,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,192578.26,2028-10-15,Management of Active Melbourne recreation facilities,3615,159,144,15,0
+INV20009,['ContractNumber'],['Provider'],Programmed Facility Management Pty Ltd,175301.61,2028-04-09,Building maintenance services,3630,129,114,15,0
+INV20010,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,150014.06,2029-10-31,Open spaces management - region 1,3676,193,178,15,0
+INV20011,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,209314.87,2029-07-11,Vehicle tow away and impound services,3585,193,178,15,0
+INV20012,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,15964.86,2029-05-19,Melbourne Town Hall venue management,3670,149,144,5,0
+INV20013,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,100000.0,2029-03-02,Vehicle tow away and impound services, ,188,178,10,0
+INV20014,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,53335.13,2028-12-09,Building maintenance services,3630,159,144,15,0
+INV20015,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,237413.34,2027-08-18,Parking technology services,3623,159,144,15,0
+INV20016,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,229250.0,2025-01-17,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20017,"['InvoiceDate', 'ContractNumber']",['InvoiceAmount'],Citywide Service Solutions Pty Ltd,74449.44,,Open spaces management - region 1,3676,199,199,0,0
+INV20018,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,100000.0,2028-08-10,Building cleaning services,3634,193,178,15,0
+INV20019,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Citywide Service Solutions Pty Ltd,200000.0,2029-07-31,Tree management maintenance services,3678,203,188,15,0
+INV20020,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,62689.86,2028-07-04,Parking technology services,3623,193,178,15,0
+INV20021,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,0.0,2028-10-01,Building maintenance services,3630,200,178,15,7
+INV20022,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,100000.0,2026-06-21,Open spaces management - region 1,3676,154,154,0,0
+INV20023,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,134246.04,2026-04-02,Building maintenance services,3630,144,144,0,0
+INV20024,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,81482.58,2028-10-28,Open spaces management - region 1,3676,154,154,0,0
+INV20025,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,77951.53,2026-02-20,Waste management services,3556,149,144,5,0
+INV20026,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,241103.69,2029-06-07,Parking technology services,3623,169,154,15,0
+INV20027,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,170051.12,2027-01-03,Management of Active Melbourne recreation facilities,3615,144,144,0,0
+INV20028,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2029-07-29,Open spaces management - region 1,3676,193,178,15,0
+INV20029,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,59536.84,2026-05-04,Integrated security services,3686,144,144,0,0
+INV20030,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,21889.82,2027-10-06,Civil infrastructure services,3665,154,154,0,0
+INV20031,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,64233.11,2028-10-08,Tree management maintenance services,3678,144,144,0,0
+INV20032,['ContractNumber'],"['Provider', 'InvoiceDate', 'ContractTitle']",Reino International Pty Ltd T/A Duncan Solutions,137910.54,2026-03-31,Parking technology services,3623,183,178,5,0
+INV20033,['ContractNumber'],"['Provider', 'InvoiceAmount']",Menzies International (Aust) Pty Ltd,200000.0,2029-06-12,Building cleaning services,3634,163,148,15,0
+INV20034,['ContractNumber'],[],Showtime Event Group Pty Ltd,54847.64,2029-01-22,Melbourne Town Hall venue management,3670,94,94,0,0
+INV20035,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,100000.0,2029-06-23,Parking technology services,3623,193,178,15,0
+INV20036,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,25584.13,2026-12-07,Open spaces management - region 1,3676,144,144,0,0
+INV20037,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,157156.02,2028-11-16,Parking technology services,3623,159,144,15,0
+INV20038,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,187572.93,2026-04-11,Street cleaning,3669,178,178,0,0
+INV20039,['ContractNumber'],['Provider'],Showtime Event Group Pty Ltd,213374.06,2028-12-02,Melbourne Town Hall venue management,3670,114,114,0,0
+INV20040,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,200000.0,2029-04-29,Street cleaning,3669,193,178,15,0
+INV20041,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,167334.54,2025-05-07,Parking technology services,3623,144,144,0,0
+INV20042,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,170482.73,2028-10-09,Street cleaning,3669,178,178,0,0
+INV20043,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,200000.0,2029-02-06,Building maintenance services,3630,193,178,15,0
+INV20044,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,0.0,2028-07-13,Vehicle tow away and impound services,3585,200,178,15,7
+INV20045,['ContractNumber'],['InvoiceDate'],Victorian YMCA Community Programming Pty Ltd,8663.32,2027-08-13,Management of Active Melbourne recreation facilities,3615,135,120,15,0
+INV20046,['ContractNumber'],['Provider'],Menzies International (Aust) Pty Ltd,141355.27,2025-05-30,Building cleaning services,3634,114,114,0,0
+INV20047,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,14292.79,2028-12-15,Management of Active Melbourne recreation facilities,3615,169,154,15,0
+INV20048,['ContractNumber'],"['Provider', 'InvoiceDate', 'ContractTitle']",Reino International Pty Ltd T/A Duncan Solutions,224638.14,2029-05-12,Parking technology services,3623,193,178,15,0
+INV20049,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,200000.0,2029-04-17,Vehicle tow away and impound services,3585,193,178,15,0
+INV20050,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,100000.0,2027-10-25,Open spaces management - region 2,3677,178,178,0,0
+INV20051,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,206985.95,2029-12-15,Civil infrastructure services,3665,193,178,15,0
+INV20052,['ContractNumber'],"['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,0.0,2026-11-22,Building maintenance services,3630,170,148,15,7
+INV20053,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,0.0,2029-09-08,Integrated security services,3686,200,178,15,7
+INV20054,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,207211.25,2028-10-07,Parking technology services,3623,193,178,15,0
+INV20055,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate', 'ContractTitle']",SERCO,157482.94,2025-08-28,Open spaces management - region 2,3677,188,188,0,0
+INV20056,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,217018.33,2029-08-11,Waste management services,3556,193,178,15,0
+INV20057,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,44892.62,2029-12-12,Open spaces management - region 1,3676,163,148,15,0
+INV20058,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,54674.05,2027-05-12,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20059,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,100000.0,2028-08-18,Street cleaning,3669,178,178,0,0
+INV20060,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,100000.0,2026-07-20,Management of Active Melbourne recreation facilities,3615,178,178,0,0
+INV20061,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,201113.43,2027-09-28,Tree management maintenance services,3678,178,178,0,0
+INV20062,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,44630.2,2027-10-25,Civil infrastructure services,3665,178,178,0,0
+INV20063,['ContractNumber'],"['Provider', 'InvoiceDate']",SERCO,68807.38,2027-05-16,Open spaces management - region 2,3677,144,144,0,0
+INV20064,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,161179.97,2027-01-22,Street cleaning,3669,144,144,0,0
+INV20065,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,128510.69,2025-01-31,Open spaces management - region 2,3677,178,178,0,0
+INV20066,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,145708.59,2027-08-02,Street cleaning,3669,178,178,0,0
+INV20067,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,221288.57,2027-12-07,Graffiti management and pressure cleaning services,3668,154,154,0,0
+INV20068,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,200000.0,2027-11-25,Street cleaning,3669,178,178,0,0
+INV20069,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,229892.6,2029-09-01,Building maintenance services,3630,159,144,15,0
+INV20070,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,219692.59,2025-12-30,Integrated security services,3686,178,178,0,0
+INV20071,['ContractNumber'],['InvoiceDate'],Cleanaway Waste Management Limited,20521.13,2029-06-15,Waste management services,3556,135,120,15,0
+INV20072,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Showtime Event Group Pty Ltd,9433.71,2029-12-18,Melbourne Town Hall venue management,3670,203,188,15,0
+INV20073,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2026-09-17,Open spaces management - region 1,3676,178,178,0,0
+INV20074,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,228769.43,2027-03-28,Integrated security services,3686,144,144,0,0
+INV20075,['ContractNumber'],"['Provider', 'InvoiceAmount']",Spotless Facility Services Pty Ltd,0.0,2027-07-05,Street cleaning,3669,155,148,0,7
+INV20076,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,101317.93,2028-01-03,Parking technology services,3623,159,144,15,0
+INV20077,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,200000.0,2026-09-14,Vehicle tow away and impound services,3585,183,178,5,0
+INV20078,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,100000.0,2026-04-28,Integrated security services,3686,178,178,0,0
+INV20079,['ContractNumber'],"['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,179702.72,2028-09-01,Building maintenance services,3630,163,148,15,0
+INV20080,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,200000.0,2029-12-24,Vehicle tow away and impound services,3585,169,154,15,0
+INV20081,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Nationwide Towing Services,214527.77,2025-08-08,Vehicle tow away and impound services,3585,212,212,0,0
+INV20082,['ContractNumber'],"['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,60502.68,2025-08-12,Building maintenance services,3630,148,148,0,0
+INV20083,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,138529.78,2026-06-26,Street cleaning,3669,144,144,0,0
+INV20084,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,100000.0,2025-03-13,Building maintenance services,3630,178,178,0,0
+INV20085,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,75164.9,2029-02-08,Street cleaning,3669,159,154,5,0
+INV20086,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,20945.22,2026-08-02,Building cleaning services,3634,193,178,15,0
+INV20087,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,33930.06,2026-04-12,Waste management services,3556,193,178,15,0
+INV20088,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,200000.0,2026-08-17,Waste management services,3556,193,178,15,0
+INV20089,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,42204.71,2027-09-08,Waste management services,3556,159,144,15,0
+INV20090,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,216140.16,2027-11-16,Street cleaning,3669,144,144,0,0
+INV20091,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,49547.74,2027-09-11,Open spaces management - region 1, ,154,144,10,0
+INV20092,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,199042.79,2025-09-27,Vehicle tow away and impound services,3585,144,144,0,0
+INV20093,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,249046.48,2026-06-07,Street cleaning,3669,178,178,0,0
+INV20094,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,176332.38,2026-03-22,Tree management maintenance services,3678,178,178,0,0
+INV20095,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,184333.52,2025-12-30,Tree management maintenance services,3678,144,144,0,0
+INV20096,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,106168.71,2027-10-14,Building maintenance services,3630,193,178,15,0
+INV20097,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,100000.0,2028-06-04,Tree management maintenance services,3678,154,154,0,0
+INV20098,['ContractNumber'],"['Provider', 'InvoiceDate']",SERCO,212488.56,2027-01-12,Open spaces management - region 2, ,154,144,10,0
+INV20099,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,194116.82,2027-04-19,Integrated security services,3686,154,154,0,0
+INV20100,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,100000.0,2025-03-26,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20101,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,81119.66,2025-12-26,Integrated security services,3686,178,178,0,0
+INV20102,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,207072.17,2026-12-29,Building maintenance services,3630,159,144,15,0
+INV20103,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,62008.37,2025-04-27,Vehicle tow away and impound services,3585,144,144,0,0
+INV20104,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,193971.44,2025-03-24,Building cleaning services,3634,144,144,0,0
+INV20105,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,59340.89,2029-06-04,Management of Active Melbourne recreation facilities,3615,169,154,15,0
+INV20106,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,111493.63,2026-10-22,Building maintenance services,3630,193,178,15,0
+INV20107,"['InvoiceDate', 'ContractNumber']","['Provider', 'InvoiceAmount']",Calcorp Services Pty Ltd,200000.0,,Graffiti management and pressure cleaning services,3668,223,223,0,0
+INV20108,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,116557.89,2027-10-03,Civil infrastructure services,3665,178,178,0,0
+INV20109,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,200410.3,2027-08-15,Vehicle tow away and impound services,3585,193,178,15,0
+INV20110,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,202443.52,2028-06-06,Civil infrastructure services,3665,149,144,5,0
+INV20111,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,117137.73,2025-03-29,Building maintenance services,3630,144,144,0,0
+INV20112,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,25740.72,2026-07-31,Tree management maintenance services,3678,144,144,0,0
+INV20113,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,149126.0,2027-06-11,Vehicle tow away and impound services,3585,193,178,15,0
+INV20114,['ContractNumber'],"['Provider', 'InvoiceAmount']",Cleanaway Waste Management Limited,107982.62,2026-01-05,Waste management services,3556,153,148,5,0
+INV20115,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,100000.0,2029-05-23,Integrated security services,3686,193,178,15,0
+INV20116,['ContractNumber'],['InvoiceAmount'],SERCO,9401.19,2029-10-16,Open spaces management - region 2,3677,139,124,15,0
+INV20117,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,190686.9,2026-03-17,Building cleaning services,3634,144,144,0,0
+INV20118,['ContractNumber'],['InvoiceDate'],Cleanaway Waste Management Limited,157128.23,2027-04-10,Waste management services,3556,135,120,15,0
+INV20119,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,63802.5,2029-03-24,Integrated security services,3686,193,178,15,0
+INV20120,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,0.0,2025-06-01,Open spaces management - region 2,3677,185,178,0,7
+INV20121,"['InvoiceAmount', 'ContractNumber']","['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,,2028-01-31,Graffiti management and pressure cleaning services,3668,229,229,0,0
+INV20122,['ContractNumber'],['Provider'],Menzies International (Aust) Pty Ltd,101199.13,2025-10-18,Building cleaning services,3634,114,114,0,0
+INV20123,['ContractNumber'],['InvoiceDate'],National Protective Services Pty Ltd,75234.33,2029-08-27,Integrated security services,3686,135,120,15,0
+INV20124,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,67057.21,2027-12-14,Building maintenance services,3630,159,144,15,0
+INV20125,['ContractNumber'],['InvoiceDate'],Nationwide Towing Services,122043.7,2025-03-01,Vehicle tow away and impound services,3585,120,120,0,0
+INV20126,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,188313.44,2026-06-26,Integrated security services,3686,154,154,0,0
+INV20127,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,114068.27,2028-04-19,Civil infrastructure services,3665,125,120,5,0
+INV20128,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,28153.85,2027-09-05,Building maintenance services,3630,193,178,15,0
+INV20129,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,1656.46,2026-11-18,Open spaces management - region 1,3676,178,178,0,0
+INV20130,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,200360.41,2025-06-15,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20131,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,79136.24,2025-01-26,Parking technology services,3623,144,144,0,0
+INV20132,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,178537.53,2029-06-06,Vehicle tow away and impound services,3585,159,144,15,0
+INV20133,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,62983.74,2026-12-27,Tree management maintenance services,3678,144,144,0,0
+INV20134,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,34820.51,2027-10-15,Civil infrastructure services,3665,144,144,0,0
+INV20135,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,200000.0,2026-10-04,Waste management services,3556,193,178,15,0
+INV20136,['ContractNumber'],"['Provider', 'InvoiceDate', 'ContractTitle']",Showtime Event Group Pty Ltd,217795.54,2025-02-16,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20137,['ContractNumber'],['Provider'],Showtime Event Group Pty Ltd,246354.9,2029-04-16,Melbourne Town Hall venue management,3670,119,114,5,0
+INV20138,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,100000.0,2026-09-16,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20139,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,109608.91,2028-10-30,Tree management maintenance services,3678,178,178,0,0
+INV20140,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,206502.97,2025-03-24,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20141,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,68665.23,2025-09-03,Management of Active Melbourne recreation facilities,3615,178,178,0,0
+INV20142,['ContractNumber'],['Provider'],Victorian YMCA Community Programming Pty Ltd,88185.77,2026-03-26,Management of Active Melbourne recreation facilities,3615,114,114,0,0
+INV20143,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,100000.0,2027-09-25,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20144,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,54514.25,2026-10-19,Tree management maintenance services,3678,144,144,0,0
+INV20145,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,165989.11,2028-01-22,Building maintenance services, ,188,178,10,0
+INV20146,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,15006.25,2029-01-28,Vehicle tow away and impound services, ,154,144,10,0
+INV20147,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2026-06-14,Open spaces management - region 1,3676,178,178,0,0
+INV20148,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,244865.2,2029-12-16,Tree management maintenance services,3678,193,178,15,0
+INV20149,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,2553.51,2027-07-09,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20150,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,83730.83,2027-06-17,Graffiti management and pressure cleaning services,3668,154,154,0,0
+INV20151,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,100000.0,2027-09-23,Civil infrastructure services,3665,154,154,0,0
+INV20152,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,189160.41,2026-08-20,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20153,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,26949.39,2025-04-24,Waste management services,3556,178,178,0,0
+INV20154,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,203373.23,2029-12-21,Building maintenance services,3630,159,144,15,0
+INV20155,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,60809.92,2027-11-17,Parking technology services,3623,193,178,15,0
+INV20156,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,79170.78,2025-12-22,Management of Active Melbourne recreation facilities,3615,144,144,0,0
+INV20157,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2029-07-31,Tree management maintenance services,3678,193,178,15,0
+INV20158,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,100000.0,2028-09-03,Vehicle tow away and impound services,3585,169,154,15,0
+INV20159,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Citywide Service Solutions Pty Ltd,172093.43,2028-09-25,Open spaces management - region 1,3676,212,212,0,0
+INV20160,['ContractNumber'],['InvoiceDate'],Calcorp Services Pty Ltd,96442.41,2025-10-03,Graffiti management and pressure cleaning services,3668,120,120,0,0
+INV20161,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,136326.97,2028-09-05,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20162,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,100000.0,2026-02-17,Building maintenance services,3630,178,178,0,0
+INV20163,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,195885.08,2029-10-19,Open spaces management - region 2,3677,193,178,15,0
+INV20164,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,100000.0,2026-05-25,Melbourne Town Hall venue management,3670,154,154,0,0
+INV20165,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,36273.63,2029-10-17,Civil infrastructure services,3665,129,114,15,0
+INV20166,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,0.0,2025-07-23,Graffiti management and pressure cleaning services,3668,185,178,0,7
+INV20167,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,58371.47,2028-12-22,Civil infrastructure services,3665,163,148,15,0
+INV20168,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,3386.71,2028-05-06,Building cleaning services,3634,159,144,15,0
+INV20169,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,102417.85,2029-12-05,Civil infrastructure services,3665,159,144,15,0
+INV20170,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,241219.66,2026-08-07,Civil infrastructure services,3665,178,178,0,0
+INV20171,['ContractNumber'],"['Provider', 'InvoiceDate', 'ContractTitle']",Reino International Pty Ltd T/A Duncan Solutions,88925.69,2026-10-04,Parking technology services,3623,193,178,15,0
+INV20172,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,0.0,2025-05-25,Building maintenance services,3630,185,178,0,7
+INV20173,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,2840.72,2025-02-25,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20174,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,44135.22,2029-02-24,Building maintenance services,3630,193,178,15,0
+INV20175,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,84261.54,2028-08-08,Integrated security services,3686,159,144,15,0
+INV20176,['ContractNumber'],"['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,103858.63,2028-11-19,Building maintenance services, ,158,148,10,0
+INV20177,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,242095.71,2029-03-24,Integrated security services,3686,193,178,15,0
+INV20178,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,143235.2,2028-12-20,Open spaces management - region 2,3677,178,178,0,0
+INV20179,['ContractNumber'],['Provider'],Programmed Facility Management Pty Ltd,66882.6,2027-09-10,Building maintenance services,3630,129,114,15,0
+INV20180,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,123079.06,2028-01-29,Civil infrastructure services,3665,144,144,0,0
+INV20181,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,89535.45,2028-06-18,Building maintenance services, ,188,178,10,0
+INV20182,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,97508.79,2026-04-26,Integrated security services,3686,154,154,0,0
+INV20183,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,237934.13,2026-11-26,Civil infrastructure services,3665,178,178,0,0
+INV20184,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,144949.5,2025-12-01,Open spaces management - region 1,3676,178,178,0,0
+INV20185,"['InvoiceAmount', 'ContractNumber']",['InvoiceDate'],Citywide Service Solutions Pty Ltd,,2028-05-08,Open spaces management - region 1,3676,205,205,0,0
+INV20186,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,0.0,2028-11-09,Building cleaning services,3634,200,178,15,7
+INV20187,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,77758.42,2026-11-05,Open spaces management - region 1,3676,178,178,0,0
+INV20188,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,51231.44,2026-06-27,Open spaces management - region 1,3676,154,154,0,0
+INV20189,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,60990.89,2029-07-30,Integrated security services,3686,193,178,15,0
+INV20190,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,130522.71,2025-04-03,Building cleaning services,3634,144,144,0,0
+INV20191,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,200000.0,2028-04-10,Building maintenance services,3630,169,154,15,0
+INV20192,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,107596.1,2028-08-13,Building cleaning services,3634,193,178,15,0
+INV20193,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,105363.1,2028-01-15,Parking technology services,3623,159,144,15,0
+INV20194,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,200000.0,2027-09-05,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20195,['ContractNumber'],['InvoiceDate'],Reino International Pty Ltd T/A Duncan Solutions,205349.59,2028-06-11,Parking technology services,3623,135,120,15,0
+INV20196,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,200000.0,2028-05-29,Integrated security services,3686,193,178,15,0
+INV20197,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,6712.05,2029-05-20,Street cleaning,3669,159,144,15,0
+INV20198,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,242012.15,2027-01-29,Street cleaning,3669,144,144,0,0
+INV20199,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,100000.0,2028-11-11,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20200,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2027-09-01,Open spaces management - region 1,3676,178,178,0,0
+INV20201,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,220127.99,2025-07-18,Tree management maintenance services,3678,144,144,0,0
+INV20202,['ContractNumber'],['InvoiceDate'],Reino International Pty Ltd T/A Duncan Solutions,247774.42,2027-08-27,Parking technology services,3623,135,120,15,0
+INV20203,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,170129.92,2026-09-30,Open spaces management - region 1,3676,178,178,0,0
+INV20204,['ContractNumber'],['Provider'],Reino International Pty Ltd T/A Duncan Solutions,218355.32,2025-08-09,Parking technology services,3623,114,114,0,0
+INV20205,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,47941.45,2025-04-12,Management of Active Melbourne recreation facilities,3615,154,154,0,0
+INV20206,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,173382.86,2028-10-08,Building maintenance services,3630,169,154,15,0
+INV20207,['ContractNumber'],['InvoiceDate'],Menzies International (Aust) Pty Ltd,8671.98,2029-12-04,Building cleaning services,3634,135,120,15,0
+INV20208,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,149463.8,2028-05-21,Tree management maintenance services,3678,120,120,0,0
+INV20209,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,227914.07,2025-12-21,Integrated security services,3686,144,144,0,0
+INV20210,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,172969.01,2025-10-11,Tree management maintenance services, ,188,178,10,0
+INV20211,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2027-10-10,Building cleaning services,3634,193,178,15,0
+INV20212,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,100000.0,2029-03-01,Civil infrastructure services, ,188,178,10,0
+INV20213,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,75374.31,2027-07-01,Melbourne Town Hall venue management,3670,154,154,0,0
+INV20214,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,200000.0,2025-06-20,Street cleaning,3669,154,154,0,0
+INV20215,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,110274.21,2025-05-28,Tree management maintenance services,3678,114,114,0,0
+INV20216,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Programmed Facility Management Pty Ltd,200000.0,2027-03-05,Building maintenance services,3630,227,212,15,0
+INV20217,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,136810.88,2027-11-18,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20218,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,0.0,2028-05-08,Parking technology services,3623,200,178,15,7
+INV20219,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,72483.2,2025-02-12,Melbourne Town Hall venue management,3670,154,154,0,0
+INV20220,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,130226.84,2026-10-19,Parking technology services,3623,159,144,15,0
+INV20221,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,47685.4,2029-07-03,Street cleaning,3669,159,144,15,0
+INV20222,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,100000.0,2028-04-28,Integrated security services,3686,183,178,5,0
+INV20223,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,200000.0,2026-01-05,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20224,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,115860.25,2029-09-26,Tree management maintenance services,3678,169,154,15,0
+INV20225,['ContractNumber'],['InvoiceDate'],Spotless Facility Services Pty Ltd,22108.74,2025-11-26,Street cleaning,3669,120,120,0,0
+INV20226,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,238390.23,2026-09-11,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20227,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,199162.4,2026-06-03,Integrated security services,3686,154,154,0,0
+INV20228,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,53319.35,2025-10-23,Building cleaning services,3634,178,178,0,0
+INV20229,['ContractNumber'],"['Provider', 'InvoiceAmount']",Reino International Pty Ltd T/A Duncan Solutions,105724.03,2028-07-12,Parking technology services,3623,163,148,15,0
+INV20230,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,100000.0,2027-05-26,Tree management maintenance services,3678,178,178,0,0
+INV20231,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,131161.29,2029-06-08,Waste management services,3556,159,144,15,0
+INV20232,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,191879.39,2028-03-02,Open spaces management - region 1,3676,114,114,0,0
+INV20233,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,200000.0,2025-02-11,Management of Active Melbourne recreation facilities,3615,154,154,0,0
+INV20234,['ContractNumber'],['InvoiceDate'],SERCO,210441.2,2027-06-19,Open spaces management - region 2,3677,120,120,0,0
+INV20235,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,32057.09,2028-08-10,Tree management maintenance services,3678,114,114,0,0
+INV20236,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,100000.0,2028-06-07,Open spaces management - region 2,3677,154,154,0,0
+INV20237,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,143856.12,2025-02-02,Integrated security services,3686,144,144,0,0
+INV20238,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,200000.0,2028-04-19,Street cleaning,3669,178,178,0,0
+INV20239,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,75727.06,2029-10-16,Civil infrastructure services,3665,163,148,15,0
+INV20240,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,72515.16,2029-12-05,Vehicle tow away and impound services,3585,193,178,15,0
+INV20241,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,18185.96,2028-11-20,Integrated security services,3686,193,178,15,0
+INV20242,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,172664.74,2027-01-24,Tree management maintenance services,3678,114,114,0,0
+INV20243,['ContractNumber'],"['Provider', 'InvoiceAmount']",Calcorp Services Pty Ltd,84546.05,2027-06-13,Graffiti management and pressure cleaning services,3668,148,148,0,0
+INV20244,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,241838.09,2026-09-07,Waste management services,3556,159,144,15,0
+INV20245,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,182375.71,2026-02-26,Building cleaning services,3634,154,154,0,0
+INV20246,['ContractNumber'],['InvoiceAmount'],Nationwide Towing Services,0.0,2028-05-29,Vehicle tow away and impound services,3585,146,124,15,7
+INV20247,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,0.0,2029-03-29,Open spaces management - region 2,3677,190,178,5,7
+INV20248,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,184508.4,2028-09-08,Tree management maintenance services,3678,114,114,0,0
+INV20249,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,10501.57,2029-10-11,Civil infrastructure services,3665,135,120,15,0
+INV20250,['ContractNumber'],['InvoiceDate'],Nationwide Towing Services,155409.77,2028-11-28,Vehicle tow away and impound services,3585,135,120,15,0
+INV20251,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,14213.99,2028-02-16,Waste management services,3556,169,154,15,0
+INV20252,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,82222.52,2028-09-03,Parking technology services,3623,159,144,15,0
+INV20253,['ContractNumber'],"['InvoiceDate', 'ContractTitle']",Calcorp Services Pty Ltd,245750.94,2028-09-18,Graffiti management and pressure cleaning services,3668,154,154,0,0
+INV20254,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,8356.48,2027-03-04,Open spaces management - region 1,3676,120,120,0,0
+INV20255,['ContractNumber'],"['Provider', 'InvoiceAmount']",National Protective Services Pty Ltd,161952.07,2025-02-06,Integrated security services,3686,148,148,0,0
+INV20256,['ContractNumber'],"['Provider', 'InvoiceAmount']",National Protective Services Pty Ltd,121598.13,2029-04-20,Integrated security services,3686,163,148,15,0
+INV20257,['ContractNumber'],"['Provider', 'InvoiceAmount']",Calcorp Services Pty Ltd,100000.0,2027-10-11,Graffiti management and pressure cleaning services,3668,148,148,0,0
+INV20258,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,5274.53,2027-10-20,Tree management maintenance services,3678,178,178,0,0
+INV20259,['ContractNumber'],"['Provider', 'InvoiceAmount']",Cleanaway Waste Management Limited,130819.38,2027-07-31,Waste management services,3556,163,148,15,0
+INV20260,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,131190.49,2028-10-30,Building cleaning services,3634,193,178,15,0
+INV20261,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,200000.0,2029-06-14,Waste management services,3556,193,178,15,0
+INV20262,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,24401.95,2027-04-02,Integrated security services,3686,154,154,0,0
+INV20263,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,7321.33,2026-12-18,Parking technology services,3623,193,178,15,0
+INV20264,['ContractNumber'],['Provider'],Victorian YMCA Community Programming Pty Ltd,102917.69,2025-09-14,Management of Active Melbourne recreation facilities,3615,114,114,0,0
+INV20265,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,143845.5,2027-03-25,Management of Active Melbourne recreation facilities,3615,144,144,0,0
+INV20266,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,174209.16,2027-07-31,Civil infrastructure services,3665,178,178,0,0
+INV20267,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,201218.09,2027-12-30,Civil infrastructure services,3665,148,148,0,0
+INV20268,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,7494.4,2026-04-15,Open spaces management - region 1,3676,120,120,0,0
+INV20269,['ContractNumber'],"['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,242821.84,2027-03-04,Building maintenance services,3630,163,148,15,0
+INV20270,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,24428.44,2025-10-24,Tree management maintenance services,3678,144,144,0,0
+INV20271,['ContractNumber'],['InvoiceDate'],Spotless Facility Services Pty Ltd,35746.33,2029-05-31,Street cleaning,3669,135,120,15,0
+INV20272,"['InvoiceAmount', 'ContractNumber']",['Provider'],Citywide Service Solutions Pty Ltd,,2029-08-02,Open spaces management - region 1, ,209,199,10,0
+INV20273,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,19548.56,2027-05-04,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20274,['ContractNumber'],['InvoiceDate'],Spotless Facility Services Pty Ltd,102997.07,2026-05-08,Street cleaning,3669,120,120,0,0
+INV20275,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,207485.54,2028-04-14,Street cleaning,3669,144,144,0,0
+INV20276,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,24116.3,2028-04-30,Civil infrastructure services,3665,183,178,5,0
+INV20277,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,237585.96,2026-01-03,Management of Active Melbourne recreation facilities,3615,144,144,0,0
+INV20278,"['InvoiceDate', 'ContractNumber']","['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,96825.67,,Tree management maintenance services, ,233,223,10,0
+INV20279,['ContractNumber'],"['Provider', 'InvoiceAmount']",Menzies International (Aust) Pty Ltd,200000.0,2027-12-27,Building cleaning services,3634,163,148,15,0
+INV20280,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,76918.74,2025-09-19,Integrated security services,3686,178,178,0,0
+INV20281,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2025-12-07,Building cleaning services,3634,178,178,0,0
+INV20282,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,50626.94,2025-11-07,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20283,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,0.0,2026-05-20,Building maintenance services,3630,185,178,0,7
+INV20284,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,225626.65,2026-12-20,Management of Active Melbourne recreation facilities,3615,154,154,0,0
+INV20285,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,129766.93,2025-07-24,Open spaces management - region 1,3676,144,144,0,0
+INV20286,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,100000.0,2025-04-13,Tree management maintenance services,3678,178,178,0,0
+INV20287,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,230818.46,2028-02-24,Street cleaning,3669,178,178,0,0
+INV20288,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,8229.41,2025-06-29,Civil infrastructure services,3665,144,144,0,0
+INV20289,['ContractNumber'],['InvoiceDate'],Spotless Facility Services Pty Ltd,89638.88,2029-10-12,Street cleaning,3669,135,120,15,0
+INV20290,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,95716.08,2027-01-05,Open spaces management - region 2,3677,178,178,0,0
+INV20291,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,42565.92,2026-04-14,Tree management maintenance services,3678,148,148,0,0
+INV20292,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,54686.84,2025-08-31,Tree management maintenance services,3678,148,148,0,0
+INV20293,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2028-05-01,Building cleaning services,3634,169,154,15,0
+INV20294,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,135006.42,2027-10-01,Open spaces management - region 1,3676,154,154,0,0
+INV20295,['ContractNumber'],"['Provider', 'InvoiceDate']",SERCO,24337.95,2027-02-22,Open spaces management - region 2,3677,144,144,0,0
+INV20296,['ContractNumber'],"['Provider', 'InvoiceAmount']",Calcorp Services Pty Ltd,111714.63,2028-06-02,Graffiti management and pressure cleaning services,3668,148,148,0,0
+INV20297,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,20624.53,2027-08-28,Parking technology services, ,188,178,10,0
+INV20298,['ContractNumber'],"['Provider', 'InvoiceAmount']",Spotless Facility Services Pty Ltd,138987.86,2029-06-06,Street cleaning,3669,163,148,15,0
+INV20299,['ContractNumber'],['InvoiceDate'],Calcorp Services Pty Ltd,146437.0,2025-06-29,Graffiti management and pressure cleaning services,3668,120,120,0,0
+INV20300,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,48173.49,2029-03-27,Building cleaning services,3634,193,178,15,0
+INV20301,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,139345.27,2026-03-05,Waste management services,3556,183,178,5,0
+INV20302,['ContractNumber'],['Provider'],Menzies International (Aust) Pty Ltd,221164.37,2026-01-14,Building cleaning services,3634,114,114,0,0
+INV20303,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,222257.91,2027-01-21,Integrated security services,3686,178,178,0,0
+INV20304,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,100000.0,2029-09-07,Building maintenance services,3630,193,178,15,0
+INV20305,['ContractNumber'],['InvoiceDate'],Cleanaway Waste Management Limited,152351.48,2029-02-02,Waste management services,3556,135,120,15,0
+INV20306,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,69635.83,2026-08-29,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20307,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,186065.36,2026-06-04,Open spaces management - region 2,3677,178,178,0,0
+INV20308,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,100000.0,2027-12-29,Vehicle tow away and impound services,3585,193,178,15,0
+INV20309,['ContractNumber'],[],Victorian YMCA Community Programming Pty Ltd,159534.71,2026-06-09,Management of Active Melbourne recreation facilities, ,104,94,10,0
+INV20310,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,240351.16,2026-06-02,Building cleaning services,3634,183,178,5,0
+INV20311,"['InvoiceAmount', 'ContractNumber']",['Provider'],National Protective Services Pty Ltd,,2028-07-28,Integrated security services,3686,214,199,15,0
+INV20312,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,180471.23,2025-03-20,Integrated security services,3686,178,178,0,0
+INV20313,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,244718.43,2029-06-05,Open spaces management - region 1,3676,159,144,15,0
+INV20314,['ContractNumber'],['InvoiceAmount'],National Protective Services Pty Ltd,213887.74,2026-02-18,Integrated security services,3686,124,124,0,0
+INV20315,['ContractNumber'],['InvoiceDate'],Reino International Pty Ltd T/A Duncan Solutions,127908.53,2029-06-21,Parking technology services,3623,135,120,15,0
+INV20316,['ContractNumber'],[],Citywide Service Solutions Pty Ltd,233054.62,2025-09-19,Open spaces management - region 1,3676,94,94,0,0
+INV20317,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,61237.21,2026-10-08,Waste management services,3556,193,178,15,0
+INV20318,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,201788.91,2025-02-15,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20319,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,178158.81,2026-10-29,Parking technology services,3623,193,178,15,0
+INV20320,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Calcorp Services Pty Ltd,8833.73,2028-05-09,Graffiti management and pressure cleaning services,3668,212,212,0,0
+INV20321,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,119177.56,2026-04-13,Integrated security services,3686,144,144,0,0
+INV20322,['ContractNumber'],['InvoiceAmount'],Citywide Service Solutions Pty Ltd,100000.0,2027-01-27,Tree management maintenance services,3678,124,124,0,0
+INV20323,['ContractNumber'],['InvoiceDate'],Menzies International (Aust) Pty Ltd,18455.39,2028-05-07,Building cleaning services,3634,135,120,15,0
+INV20324,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,30866.46,2026-03-30,Waste management services,3556,159,154,5,0
+INV20325,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,200000.0,2026-04-03,Building maintenance services,3630,178,178,0,0
+INV20326,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,103541.7,2029-04-26,Melbourne Town Hall venue management,3670,183,178,5,0
+INV20327,"['InvoiceAmount', 'ContractNumber']","['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,,2029-08-12,Building cleaning services,3634,244,229,15,0
+INV20328,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,234295.12,2027-04-09,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20329,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,38031.93,2026-05-21,Tree management maintenance services,3678,114,114,0,0
+INV20330,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,131037.3,2028-04-04,Open spaces management - region 2,3677,178,178,0,0
+INV20331,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,143934.59,2028-03-29,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20332,['ContractNumber'],['InvoiceDate'],Calcorp Services Pty Ltd,176179.11,2026-12-21,Graffiti management and pressure cleaning services,3668,120,120,0,0
+INV20333,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,222592.93,2027-03-02,Open spaces management - region 1,3676,148,148,0,0
+INV20334,"['InvoiceDate', 'ContractNumber']","['Provider', 'InvoiceAmount']",Cleanaway Waste Management Limited,119766.56,,Waste management services,3556,223,223,0,0
+INV20335,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,73622.85,2029-10-30,Tree management maintenance services,3678,193,178,15,0
+INV20336,['ContractNumber'],['InvoiceDate'],Showtime Event Group Pty Ltd,68952.54,2026-08-28,Melbourne Town Hall venue management,3670,120,120,0,0
+INV20337,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,100000.0,2028-04-26,Building cleaning services,3634,193,178,15,0
+INV20338,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,102340.55,2029-05-06,Tree management maintenance services,3678,193,178,15,0
+INV20339,"['InvoiceDate', 'ContractNumber']","['Provider', 'InvoiceAmount', 'ContractTitle']",Cleanaway Waste Management Limited,0.0,,Waste management services,3556,264,257,0,7
+INV20340,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,25336.7,2027-05-01,Vehicle tow away and impound services,3585,159,144,15,0
+INV20341,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,6374.8,2027-03-13,Tree management maintenance services,3678,178,178,0,0
+INV20342,['ContractNumber'],['Provider'],Programmed Facility Management Pty Ltd,11201.17,2025-12-08,Building maintenance services,3630,114,114,0,0
+INV20343,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,68914.78,2026-06-20,Open spaces management - region 1,3676,120,120,0,0
+INV20344,['ContractNumber'],"['Provider', 'InvoiceAmount']",Nationwide Towing Services,202283.54,2029-11-15,Vehicle tow away and impound services,3585,163,148,15,0
+INV20345,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,228263.67,2026-10-30,Open spaces management - region 2,3677,178,178,0,0
+INV20346,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,223864.39,2026-08-02,Integrated security services,3686,178,178,0,0
+INV20347,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,200000.0,2029-04-01,Waste management services,3556,169,154,15,0
+INV20348,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2025-06-12,Building cleaning services,3634,154,154,0,0
+INV20349,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,243515.43,2027-02-26,Tree management maintenance services, ,124,114,10,0
+INV20350,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,217248.03,2027-08-19,Vehicle tow away and impound services,3585,159,144,15,0
+INV20351,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,233191.23,2026-07-03,Civil infrastructure services,3665,178,178,0,0
+INV20352,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Reino International Pty Ltd T/A Duncan Solutions,244206.32,2028-06-18,Parking technology services,3623,203,188,15,0
+INV20353,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,0.0,2027-08-26,Melbourne Town Hall venue management,3670,185,178,0,7
+INV20354,['ContractNumber'],"['Provider', 'InvoiceAmount']",Cleanaway Waste Management Limited,100000.0,2029-07-10,Waste management services,3556,163,148,15,0
+INV20355,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2027-06-29,Building cleaning services,3634,193,178,15,0
+INV20356,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,10674.59,2025-09-01,Management of Active Melbourne recreation facilities,3615,144,144,0,0
+INV20357,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,115475.48,2026-08-27,Integrated security services,3686,144,144,0,0
+INV20358,"['ContractTitle', 'ContractNumber']",['InvoiceAmount'],Calcorp Services Pty Ltd,95582.39,2026-04-27,Parking technology services, ,219,209,10,0
+INV20359,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,103955.58,2027-01-29,Waste management services,3556,193,178,15,0
+INV20360,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,100000.0,2029-01-17,Street cleaning,3669,183,178,5,0
+INV20361,['ContractNumber'],"['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,100000.0,2025-01-15,Building maintenance services,3630,148,148,0,0
+INV20362,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,81407.38,2029-09-29,Open spaces management - region 1,3676,159,144,15,0
+INV20363,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,200000.0,2029-07-03,Waste management services,3556,193,178,15,0
+INV20364,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,200000.0,2025-09-26,Building maintenance services,3630,178,178,0,0
+INV20365,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,90914.56,2026-08-26,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20366,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,191660.96,2025-10-27,Open spaces management - region 1,3676,144,144,0,0
+INV20367,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,171973.03,2025-04-04,Building maintenance services,3630,144,144,0,0
+INV20368,['ContractNumber'],['InvoiceAmount'],Menzies International (Aust) Pty Ltd,18558.2,2025-07-31,Building cleaning services,3634,124,124,0,0
+INV20369,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,78665.93,2029-03-14,Integrated security services,3686,193,178,15,0
+INV20370,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,230612.01,2029-01-06,Vehicle tow away and impound services,3585,159,144,15,0
+INV20371,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,96502.1,2028-04-23,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20372,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,48433.6,2025-02-25,Waste management services,3556,178,178,0,0
+INV20373,"['InvoiceDate', 'ContractNumber']","['Provider', 'InvoiceAmount']",Calcorp Services Pty Ltd,0.0,,Graffiti management and pressure cleaning services,3668,230,223,0,7
+INV20374,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,35869.91,2029-08-29,Building maintenance services,3630,193,178,15,0
+INV20375,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,12952.21,2028-02-09,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20376,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,193096.58,2027-04-17,Tree management maintenance services, ,164,154,10,0
+INV20377,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,204096.04,2027-10-03,Melbourne Town Hall venue management,3670,154,154,0,0
+INV20378,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,221635.82,2029-12-11,Building maintenance services,3630,159,144,15,0
+INV20379,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,228171.3,2028-06-06,Integrated security services,3686,159,144,15,0
+INV20380,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,18607.56,2028-12-09,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20381,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,114210.2,2027-07-13,Street cleaning,3669,154,154,0,0
+INV20382,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,120758.9,2028-07-13,Open spaces management - region 2,3677,154,154,0,0
+INV20383,"['InvoiceAmount', 'ContractNumber']","['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,,2029-03-22,Building maintenance services,3630,244,229,15,0
+INV20384,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,193358.57,2026-03-26,Civil infrastructure services, ,124,114,10,0
+INV20385,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,170820.87,2026-10-06,Parking technology services,3623,193,178,15,0
+INV20386,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,141236.85,2025-01-19,Vehicle tow away and impound services,3585,178,178,0,0
+INV20387,['ContractNumber'],['InvoiceDate'],Showtime Event Group Pty Ltd,156460.15,2026-10-06,Melbourne Town Hall venue management,3670,120,120,0,0
+INV20388,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,0.0,2025-01-02,Waste management services,3556,161,154,0,7
+INV20389,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,177714.19,2025-04-05,Tree management maintenance services, ,188,178,10,0
+INV20390,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,166744.76,2029-02-09,Parking technology services,3623,193,178,15,0
+INV20391,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,126267.67,2029-02-08,Civil infrastructure services,3665,193,178,15,0
+INV20392,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,45093.47,2025-09-14,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20393,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,0.0,2026-09-27,Building cleaning services,3634,200,178,15,7
+INV20394,['ContractNumber'],['InvoiceDate'],Menzies International (Aust) Pty Ltd,11309.63,2027-01-16,Building cleaning services,3634,135,120,15,0
+INV20395,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,242394.17,2027-06-18,Parking technology services,3623,193,178,15,0
+INV20396,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,21514.9,2028-08-31,Building cleaning services,3634,159,144,15,0
+INV20397,['ContractNumber'],['InvoiceDate'],Menzies International (Aust) Pty Ltd,204329.14,2029-08-27,Building cleaning services,3634,135,120,15,0
+INV20398,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,102137.16,2025-10-31,Street cleaning,3669,178,178,0,0
+INV20399,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,90865.48,2029-05-26,Building maintenance services,3630,193,178,15,0
+INV20400,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,24587.75,2025-05-21,Vehicle tow away and impound services,3585,144,144,0,0
+INV20401,['ContractNumber'],['Provider'],Showtime Event Group Pty Ltd,105179.62,2026-12-29,Melbourne Town Hall venue management,3670,114,114,0,0
+INV20402,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,100000.0,2027-03-26,Vehicle tow away and impound services,3585,193,178,15,0
+INV20403,['ContractNumber'],"['Provider', 'InvoiceAmount']",Reino International Pty Ltd T/A Duncan Solutions,237145.15,2025-09-19,Parking technology services,3623,148,148,0,0
+INV20404,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,232982.12,2025-03-02,Civil infrastructure services,3665,148,148,0,0
+INV20405,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,201950.08,2026-11-22,Street cleaning,3669,144,144,0,0
+INV20406,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,13255.08,2028-06-24,Melbourne Town Hall venue management,3670,154,154,0,0
+INV20407,['ContractNumber'],"['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,204012.53,2026-02-15,Building maintenance services,3630,148,148,0,0
+INV20408,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,100000.0,2029-12-08,Melbourne Town Hall venue management,3670,193,178,15,0
+INV20409,"['InvoiceAmount', 'ContractNumber']","['InvoiceDate', 'ContractTitle']",Citywide Service Solutions Pty Ltd,,2025-07-14,Tree management maintenance services,3678,239,239,0,0
+INV20410,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,74162.57,2025-03-16,Integrated security services,3686,144,144,0,0
+INV20411,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,0.0,2026-12-11,Graffiti management and pressure cleaning services,3668,185,178,0,7
+INV20412,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,56034.94,2028-12-27,Open spaces management - region 2,3677,154,154,0,0
+INV20413,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Citywide Service Solutions Pty Ltd,41331.42,2029-02-15,Tree management maintenance services,3678,193,188,5,0
+INV20414,['ContractNumber'],"['Provider', 'InvoiceAmount']",Menzies International (Aust) Pty Ltd,210888.62,2025-08-30,Building cleaning services,3634,148,148,0,0
+INV20415,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,151556.21,2028-09-09,Integrated security services,3686,193,178,15,0
+INV20416,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,74637.18,2025-12-31,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20417,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,225849.88,2027-07-05,Open spaces management - region 2,3677,178,178,0,0
+INV20418,['ContractNumber'],['InvoiceDate'],Menzies International (Aust) Pty Ltd,66058.84,2026-05-30,Building cleaning services,3634,125,120,5,0
+INV20419,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,59364.57,2025-04-26,Street cleaning,3669,154,154,0,0
+INV20420,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,150443.8,2027-03-08,Street cleaning,3669,144,144,0,0
+INV20421,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,231453.96,2028-05-09,Tree management maintenance services,3678,144,144,0,0
+INV20422,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,139946.27,2026-08-24,Waste management services,3556,159,144,15,0
+INV20423,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,142969.29,2026-05-30,Parking technology services,3623,169,154,15,0
+INV20424,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,116597.66,2027-09-12,Waste management services,3556,193,178,15,0
+INV20425,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,100000.0,2026-11-16,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20426,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,200000.0,2028-06-16,Street cleaning,3669,178,178,0,0
+INV20427,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,40021.9,2028-12-19,Integrated security services,3686,193,178,15,0
+INV20428,['ContractNumber'],['InvoiceDate'],Reino International Pty Ltd T/A Duncan Solutions,239121.75,2025-03-31,Parking technology services,3623,120,120,0,0
+INV20429,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,169054.77,2027-06-20,Vehicle tow away and impound services,3585,169,154,15,0
+INV20430,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,117318.33,2027-01-30,Street cleaning,3669,144,144,0,0
+INV20431,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,33511.05,2027-04-19,Vehicle tow away and impound services,3585,159,144,15,0
+INV20432,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,38072.12,2029-05-15,Building maintenance services,3630,159,144,15,0
+INV20433,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,70359.93,2029-03-22,Street cleaning,3669,183,178,5,0
+INV20434,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,200000.0,2026-09-16,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20435,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,192423.25,2027-01-08,Tree management maintenance services,3678,178,178,0,0
+INV20436,['ContractNumber'],['InvoiceDate'],Nationwide Towing Services,45000.83,2027-07-23,Vehicle tow away and impound services,3585,135,120,15,0
+INV20437,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,100000.0,2026-09-28,Civil infrastructure services,3665,154,154,0,0
+INV20438,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,200000.0,2027-05-22,Vehicle tow away and impound services,3585,169,154,15,0
+INV20439,['ContractNumber'],"['Provider', 'InvoiceAmount']",Showtime Event Group Pty Ltd,200000.0,2028-05-08,Melbourne Town Hall venue management,3670,148,148,0,0
+INV20440,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,193214.79,2029-05-14,Management of Active Melbourne recreation facilities,3615,163,148,15,0
+INV20441,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,122773.56,2027-08-12,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20442,['ContractNumber'],['InvoiceAmount'],Showtime Event Group Pty Ltd,4677.81,2028-07-21,Melbourne Town Hall venue management,3670,124,124,0,0
+INV20443,['ContractNumber'],['InvoiceAmount'],Calcorp Services Pty Ltd,200000.0,2029-12-11,Graffiti management and pressure cleaning services,3668,139,124,15,0
+INV20444,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,116367.74,2026-08-18,Melbourne Town Hall venue management,3670,154,154,0,0
+INV20445,['ContractNumber'],"['Provider', 'InvoiceAmount']",Cleanaway Waste Management Limited,100000.0,2027-08-31,Waste management services,3556,163,148,15,0
+INV20446,['ContractNumber'],"['Provider', 'InvoiceAmount']",Reino International Pty Ltd T/A Duncan Solutions,105814.83,2028-06-04,Parking technology services,3623,163,148,15,0
+INV20447,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,149248.43,2026-10-15,Building cleaning services,3634,193,178,15,0
+INV20448,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,76996.79,2028-11-10,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20449,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,237615.17,2025-01-11,Street cleaning,3669,178,178,0,0
+INV20450,['ContractNumber'],"['Provider', 'InvoiceAmount']",Menzies International (Aust) Pty Ltd,59637.44,2025-08-22,Building cleaning services,3634,148,148,0,0
+INV20451,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,226804.49,2028-06-02,Management of Active Melbourne recreation facilities,3615,163,148,15,0
+INV20452,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,33070.57,2025-02-19,Building maintenance services, ,154,144,10,0
+INV20453,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,34198.44,2028-08-01,Waste management services,3556,169,154,15,0
+INV20454,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,18151.63,2029-01-10,Street cleaning,3669,149,144,5,0
+INV20455,['ContractNumber'],['InvoiceAmount'],Spotless Facility Services Pty Ltd,120826.55,2029-04-09,Street cleaning,3669,139,124,15,0
+INV20456,['ContractNumber'],['Provider'],Calcorp Services Pty Ltd,45343.54,2027-04-17,Graffiti management and pressure cleaning services,3668,114,114,0,0
+INV20457,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Programmed Facility Management Pty Ltd,0.0,2029-06-08,Building maintenance services,3630,234,212,15,7
+INV20458,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,74410.08,2025-01-03,Parking technology services,3623,178,178,0,0
+INV20459,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,37090.47,2029-06-15,Civil infrastructure services,3665,159,144,15,0
+INV20460,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,183941.03,2025-03-06,Street cleaning,3669,178,178,0,0
+INV20461,['ContractNumber'],"['Provider', 'InvoiceAmount']",National Protective Services Pty Ltd,157803.46,2025-01-31,Integrated security services,3686,148,148,0,0
+INV20462,['ContractNumber'],"['InvoiceDate', 'ContractTitle']",Cleanaway Waste Management Limited,217636.8,2026-07-19,Waste management services,3556,169,154,15,0
+INV20463,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,1861.49,2029-06-08,Parking technology services,3623,159,144,15,0
+INV20464,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,200000.0,2028-07-15,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20465,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,232037.04,2027-06-08,Integrated security services,3686,178,178,0,0
+INV20466,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,32590.76,2025-04-11,Open spaces management - region 1,3676,178,178,0,0
+INV20467,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,100000.0,2027-02-25,Graffiti management and pressure cleaning services, ,188,178,10,0
+INV20468,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,247315.04,2029-10-25,Tree management maintenance services,3678,193,178,15,0
+INV20469,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,28964.13,2029-06-03,Building maintenance services,3630,159,144,15,0
+INV20470,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,23808.93,2028-08-12,Civil infrastructure services,3665,193,178,15,0
+INV20471,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,63669.18,2026-05-26,Integrated security services,3686,178,178,0,0
+INV20472,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,77481.81,2028-03-16,Civil infrastructure services,3665,144,144,0,0
+INV20473,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,210494.89,2027-04-18,Street cleaning,3669,178,178,0,0
+INV20474,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2029-01-20,Tree management maintenance services,3678,183,178,5,0
+INV20475,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,225981.23,2025-08-04,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20476,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,1274.78,2028-11-17,Open spaces management - region 2,3677,178,178,0,0
+INV20477,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,196219.24,2029-11-09,Open spaces management - region 1,3676,159,144,15,0
+INV20478,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,178326.39,2028-01-19,Vehicle tow away and impound services,3585,193,178,15,0
+INV20479,['ContractNumber'],"['Provider', 'InvoiceDate', 'ContractTitle']",SERCO,134388.6,2028-01-10,Open spaces management - region 2,3677,178,178,0,0
+INV20480,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,25568.64,2028-12-19,Management of Active Melbourne recreation facilities,3615,159,144,15,0
+INV20481,['ContractNumber'],"['Provider', 'InvoiceAmount']",SERCO,200000.0,2025-07-19,Open spaces management - region 2,3677,148,148,0,0
+INV20482,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,100000.0,2025-10-27,Civil infrastructure services,3665,148,148,0,0
+INV20483,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,161479.28,2028-11-07,Vehicle tow away and impound services,3585,159,144,15,0
+INV20484,['ContractNumber'],"['Provider', 'InvoiceAmount']",Calcorp Services Pty Ltd,100000.0,2028-08-24,Graffiti management and pressure cleaning services,3668,148,148,0,0
+INV20485,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Citywide Service Solutions Pty Ltd,200000.0,2025-07-12,Civil infrastructure services,3665,212,212,0,0
+INV20486,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,186229.63,2026-02-28,Tree management maintenance services,3678,178,178,0,0
+INV20487,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,233549.12,2026-03-01,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20488,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,186892.87,2025-03-05,Civil infrastructure services,3665,144,144,0,0
+INV20489,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,230378.27,2028-10-07,Open spaces management - region 2,3677,178,178,0,0
+INV20490,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,149986.11,2028-05-27,Street cleaning,3669,178,178,0,0
+INV20491,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,0.0,2025-10-05,Open spaces management - region 1,3676,185,178,0,7
+INV20492,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,200000.0,2025-03-22,Open spaces management - region 2,3677,154,154,0,0
+INV20493,['ContractNumber'],"['Provider', 'InvoiceAmount']",Menzies International (Aust) Pty Ltd,0.0,2026-04-28,Building cleaning services, ,165,148,10,7
+INV20494,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,120223.62,2025-01-17,Building maintenance services,3630,178,178,0,0
+INV20495,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,0.0,2025-01-11,Building maintenance services,3630,185,178,0,7
+INV20496,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,38449.41,2028-05-03,Open spaces management - region 2,3677,154,154,0,0
+INV20497,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,0.0,2026-04-25,Vehicle tow away and impound services,3585,185,178,0,7
+INV20498,['ContractNumber'],"['Provider', 'InvoiceAmount']",SERCO,3136.0,2027-07-13,Open spaces management - region 2,3677,148,148,0,0
+INV20499,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,107106.28,2025-04-21,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20500,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,180269.25,2029-10-23,Parking technology services,3623,159,144,15,0
+INV20501,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,179389.13,2027-06-26,Vehicle tow away and impound services,3585,159,144,15,0
+INV20502,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Calcorp Services Pty Ltd,187785.1,2028-05-16,Graffiti management and pressure cleaning services,3668,212,212,0,0
+INV20503,['ContractNumber'],"['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,200000.0,2028-09-22,Building maintenance services,3630,163,148,15,0
+INV20504,['ContractNumber'],"['Provider', 'InvoiceAmount']",Spotless Facility Services Pty Ltd,100000.0,2025-11-01,Street cleaning,3669,148,148,0,0
+INV20505,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,100000.0,2025-07-13,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20506,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,89393.43,2026-02-25,Street cleaning,3669,178,178,0,0
+INV20507,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,176008.45,2027-12-17,Civil infrastructure services,3665,144,144,0,0
+INV20508,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,79180.5,2028-11-24,Street cleaning,3669,144,144,0,0
+INV20509,['ContractNumber'],"['Provider', 'InvoiceAmount']",Showtime Event Group Pty Ltd,100537.82,2029-12-13,Melbourne Town Hall venue management,3670,163,148,15,0
+INV20510,['ContractNumber'],['Provider'],Spotless Facility Services Pty Ltd,114167.01,2026-05-25,Street cleaning,3669,114,114,0,0
+INV20511,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,100000.0,2026-03-20,Integrated security services,3686,178,178,0,0
+INV20512,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,194236.28,2028-05-08,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20513,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,228067.97,2026-01-26,Street cleaning,3669,178,178,0,0
+INV20514,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,100000.0,2025-05-24,Waste management services,3556,178,178,0,0
+INV20515,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,34113.93,2029-08-14,Integrated security services, ,154,144,10,0
+INV20516,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,100000.0,2028-10-13,Open spaces management - region 1,3676,178,178,0,0
+INV20517,"['InvoiceAmount', 'ContractNumber']","['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,,2025-10-03,Civil infrastructure services,3665,229,229,0,0
+INV20518,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,239724.47,2029-05-04,Street cleaning,3669,193,178,15,0
+INV20519,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,2359.02,2027-03-30,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20520,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,100000.0,2025-05-14,Civil infrastructure services,3665,178,178,0,0
+INV20521,['ContractNumber'],"['Provider', 'InvoiceDate']",SERCO,17682.55,2029-08-18,Open spaces management - region 2,3677,159,144,15,0
+INV20522,['ContractNumber'],['Provider'],National Protective Services Pty Ltd,25821.46,2025-02-05,Integrated security services,3686,114,114,0,0
+INV20523,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,60830.62,2028-08-18,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20524,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,77638.32,2026-11-07,Open spaces management - region 2,3677,178,178,0,0
+INV20525,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,157160.99,2026-06-14,Tree management maintenance services,3678,144,144,0,0
+INV20526,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,130821.11,2027-11-23,Tree management maintenance services,3678,178,178,0,0
+INV20527,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,106052.16,2027-05-25,Integrated security services,3686,154,154,0,0
+INV20528,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,100000.0,2027-04-19,Waste management services,3556,193,178,15,0
+INV20529,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,51616.39,2028-03-02,Waste management services,3556,159,144,15,0
+INV20530,['ContractNumber'],"['Provider', 'InvoiceAmount']",Calcorp Services Pty Ltd,0.0,2025-05-04,Graffiti management and pressure cleaning services,3668,155,148,0,7
+INV20531,['ContractNumber'],"['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,200000.0,2026-04-17,Building maintenance services,3630,148,148,0,0
+INV20532,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,100000.0,2025-01-11,Building maintenance services,3630,178,178,0,0
+INV20533,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Cleanaway Waste Management Limited,200000.0,2025-06-02,Waste management services,3556,188,188,0,0
+INV20534,['ContractNumber'],['InvoiceDate'],Victorian YMCA Community Programming Pty Ltd,55889.54,2025-04-19,Management of Active Melbourne recreation facilities,3615,120,120,0,0
+INV20535,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,35567.81,2025-04-29,Civil infrastructure services,3665,144,144,0,0
+INV20536,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,116159.08,2025-05-04,Parking technology services,3623,144,144,0,0
+INV20537,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,34275.47,2028-03-23,Integrated security services,3686,149,144,5,0
+INV20538,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,190691.78,2027-05-02,Tree management maintenance services,3678,178,178,0,0
+INV20539,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,112716.78,2026-08-18,Parking technology services,3623,159,144,15,0
+INV20540,['ContractNumber'],['InvoiceAmount'],Citywide Service Solutions Pty Ltd,82216.5,2026-02-27,Civil infrastructure services,3665,124,124,0,0
+INV20541,['ContractNumber'],['InvoiceDate'],SERCO,108828.9,2025-06-18,Open spaces management - region 2,3677,120,120,0,0
+INV20542,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,124694.31,2028-07-25,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20543,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,187774.7,2026-09-15,Management of Active Melbourne recreation facilities,3615,148,148,0,0
+INV20544,['ContractNumber'],['Provider'],Showtime Event Group Pty Ltd,239208.7,2027-09-15,Melbourne Town Hall venue management,3670,114,114,0,0
+INV20545,['ContractNumber'],['InvoiceDate'],Calcorp Services Pty Ltd,62896.69,2028-06-27,Graffiti management and pressure cleaning services,3668,120,120,0,0
+INV20546,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,203827.98,2026-02-25,Building maintenance services,3630,178,178,0,0
+INV20547,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,100000.0,2026-06-07,Street cleaning,3669,178,178,0,0
+INV20548,['ContractNumber'],['Provider'],Nationwide Towing Services,143318.51,2028-11-27,Vehicle tow away and impound services,3585,129,114,15,0
+INV20549,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,194949.73,2026-06-02,Street cleaning,3669,144,144,0,0
+INV20550,"['InvoiceAmount', 'ContractNumber']",['Provider'],Showtime Event Group Pty Ltd,,2025-04-12,Melbourne Town Hall venue management,3670,199,199,0,0
+INV20551,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,225422.7,2025-08-28,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20552,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,119827.05,2027-07-23,Management of Active Melbourne recreation facilities,3615,159,144,15,0
+INV20553,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,44031.43,2028-09-13,Civil infrastructure services,3665,159,144,15,0
+INV20554,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,100000.0,2025-04-04,Management of Active Melbourne recreation facilities,3615,148,148,0,0
+INV20555,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,0.0,2028-08-25,Parking technology services,3623,200,178,15,7
+INV20556,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,58026.04,2025-02-06,Building maintenance services,3630,178,178,0,0
+INV20557,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,151681.86,2027-01-08,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20558,['ContractNumber'],['InvoiceDate'],Nationwide Towing Services,88972.65,2025-01-16,Vehicle tow away and impound services,3585,120,120,0,0
+INV20559,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,60609.83,2027-05-05,Management of Active Melbourne recreation facilities,3615,183,178,5,0
+INV20560,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,199107.3,2029-01-27,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20561,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,155148.48,2025-03-22,Waste management services,3556,144,144,0,0
+INV20562,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,77703.38,2026-11-19,Management of Active Melbourne recreation facilities,3615,144,144,0,0
+INV20563,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,0.0,2027-06-17,Street cleaning,3669,185,178,0,7
+INV20564,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,207761.14,2026-02-13,Management of Active Melbourne recreation facilities,3615,178,178,0,0
+INV20565,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,243578.75,2028-11-11,Tree management maintenance services,3678,178,178,0,0
+INV20566,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,53935.89,2028-12-28,Civil infrastructure services,3665,129,114,15,0
+INV20567,['ContractNumber'],['InvoiceDate'],National Protective Services Pty Ltd,57764.4,2029-03-09,Integrated security services,3686,135,120,15,0
+INV20568,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,225659.95,2028-02-05,Building maintenance services,3630,159,144,15,0
+INV20569,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,59418.41,2026-09-29,Tree management maintenance services,3678,120,120,0,0
+INV20570,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,124839.53,2026-11-30,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20571,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,6570.94,2026-01-21,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20572,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,12799.51,2028-11-10,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20573,['ContractNumber'],"['Provider', 'InvoiceAmount']",Showtime Event Group Pty Ltd,20628.22,2026-04-21,Melbourne Town Hall venue management,3670,148,148,0,0
+INV20574,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,205332.11,2027-11-07,Waste management services,3556,169,154,15,0
+INV20575,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,100000.0,2029-01-29,Civil infrastructure services,3665,169,154,15,0
+INV20576,['ContractNumber'],"['Provider', 'InvoiceAmount']",Calcorp Services Pty Ltd,79728.91,2026-10-31,Graffiti management and pressure cleaning services,3668,148,148,0,0
+INV20577,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,205491.89,2029-02-22,Open spaces management - region 1,3676,159,154,5,0
+INV20578,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,34895.52,2025-04-07,Building maintenance services,3630,178,178,0,0
+INV20579,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,241844.09,2028-10-20,Waste management services,3556,169,154,15,0
+INV20580,['ContractNumber'],['Provider'],Nationwide Towing Services,143251.37,2029-07-09,Vehicle tow away and impound services,3585,129,114,15,0
+INV20581,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,139200.92,2026-05-24,Vehicle tow away and impound services,3585,144,144,0,0
+INV20582,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,41378.07,2027-07-27,Building cleaning services,3634,159,144,15,0
+INV20583,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,38842.68,2029-09-15,Integrated security services,3686,193,178,15,0
+INV20584,['ContractNumber'],"['Provider', 'InvoiceAmount']",Spotless Facility Services Pty Ltd,80736.33,2027-09-15,Street cleaning,3669,148,148,0,0
+INV20585,['ContractNumber'],"['Provider', 'InvoiceAmount']",Cleanaway Waste Management Limited,170196.95,2026-09-15,Waste management services,3556,163,148,15,0
+INV20586,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,219671.53,2028-06-02,Civil infrastructure services,3665,183,178,5,0
+INV20587,['ContractNumber'],['InvoiceDate'],SERCO,17376.8,2025-11-27,Open spaces management - region 2,3677,120,120,0,0
+INV20588,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2028-10-14,Building cleaning services,3634,169,154,15,0
+INV20589,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,15177.91,2029-10-18,Vehicle tow away and impound services,3585,159,144,15,0
+INV20590,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,78702.48,2026-07-02,Parking technology services,3623,159,144,15,0
+INV20591,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,66777.55,2026-11-24,Tree management maintenance services,3678,148,148,0,0
+INV20592,"['InvoiceDate', 'ContractNumber']",['Provider'],National Protective Services Pty Ltd,110100.02,,Integrated security services, ,199,189,10,0
+INV20593,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,204584.71,2026-12-06,Building maintenance services,3630,193,178,15,0
+INV20594,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2027-01-19,Civil infrastructure services,3665,178,178,0,0
+INV20595,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,200000.0,2025-12-12,Parking technology services,3623,154,154,0,0
+INV20596,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,100000.0,2028-03-30,Melbourne Town Hall venue management, ,164,154,10,0
+INV20597,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,244015.78,2027-11-21,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20598,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,157585.47,2027-11-06,Building cleaning services,3634,159,144,15,0
+INV20599,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,100000.0,2027-10-31,Open spaces management - region 2,3677,154,154,0,0
+INV20600,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,27420.95,2028-02-18,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20601,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,221553.35,2029-05-28,Vehicle tow away and impound services,3585,159,144,15,0
+INV20602,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,174113.29,2026-04-15,Vehicle tow away and impound services,3585,154,154,0,0
+INV20603,['ContractNumber'],"['Provider', 'InvoiceAmount']",Reino International Pty Ltd T/A Duncan Solutions,46450.38,2029-04-28,Parking technology services,3623,163,148,15,0
+INV20604,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,120457.22,2028-05-08,Civil infrastructure services, ,154,144,10,0
+INV20605,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,148602.38,2027-10-23,Building maintenance services,3630,193,178,15,0
+INV20606,['ContractNumber'],['Provider'],Showtime Event Group Pty Ltd,192236.18,2027-05-05,Melbourne Town Hall venue management,3670,114,114,0,0
+INV20607,['ContractNumber'],"['Provider', 'InvoiceAmount']",SERCO,0.0,2028-04-06,Open spaces management - region 2,3677,155,148,0,7
+INV20608,['ContractNumber'],['Provider'],Cleanaway Waste Management Limited,212130.93,2026-05-24,Waste management services,3556,129,114,15,0
+INV20609,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,200000.0,2029-11-19,Open spaces management - region 2,3677,169,154,15,0
+INV20610,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,103208.57,2025-01-20,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20611,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,100000.0,2025-10-20,Open spaces management - region 2,3677,154,154,0,0
+INV20612,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,338.53,2028-12-15,Parking technology services,3623,193,178,15,0
+INV20613,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,181830.91,2027-01-09,Parking technology services,3623,159,144,15,0
+INV20614,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,160763.46,2029-01-22,Building maintenance services,3630,193,178,15,0
+INV20615,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,177047.29,2026-02-22,Open spaces management - region 1,3676,144,144,0,0
+INV20616,['ContractNumber'],['InvoiceAmount'],Citywide Service Solutions Pty Ltd,0.0,2029-07-13,Tree management maintenance services, ,141,124,10,7
+INV20617,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,157657.84,2026-03-12,Waste management services, ,188,178,10,0
+INV20618,['ContractNumber'],['Provider'],Menzies International (Aust) Pty Ltd,99140.66,2028-11-20,Building cleaning services,3634,129,114,15,0
+INV20619,['ContractNumber'],['InvoiceDate'],Menzies International (Aust) Pty Ltd,17378.04,2028-12-15,Building cleaning services,3634,135,120,15,0
+INV20620,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,124708.51,2027-01-20,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20621,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,239914.23,2025-11-04,Management of Active Melbourne recreation facilities,3615,154,154,0,0
+INV20622,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,224252.61,2026-03-06,Street cleaning,3669,144,144,0,0
+INV20623,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,78410.0,2027-09-09,Open spaces management - region 2,3677,154,154,0,0
+INV20624,['ContractNumber'],['InvoiceDate'],Spotless Facility Services Pty Ltd,129675.86,2026-11-08,Street cleaning,3669,120,120,0,0
+INV20625,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,33068.93,2027-11-09,Parking technology services,3623,193,178,15,0
+INV20626,"['InvoiceDate', 'ContractNumber']",['InvoiceAmount'],SERCO,72266.93,,Open spaces management - region 2,3677,199,199,0,0
+INV20627,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,124385.59,2028-05-19,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20628,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,235416.26,2025-01-10,Open spaces management - region 1,3676,144,144,0,0
+INV20629,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,1441.95,2029-01-03,Integrated security services,3686,169,154,15,0
+INV20630,['ContractNumber'],['Provider'],SERCO,60501.57,2025-01-27,Open spaces management - region 2,3677,114,114,0,0
+INV20631,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,182937.23,2026-01-14,Waste management services,3556,183,178,5,0
+INV20632,['ContractNumber'],['Provider'],Victorian YMCA Community Programming Pty Ltd,223475.68,2025-03-13,Management of Active Melbourne recreation facilities,3615,114,114,0,0
+INV20633,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,138900.71,2028-08-11,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20634,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,164409.42,2026-01-05,Vehicle tow away and impound services,3585,178,178,0,0
+INV20635,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,200000.0,2027-12-22,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20636,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,164746.95,2029-06-03,Integrated security services,3686,159,144,15,0
+INV20637,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,153332.47,2028-12-31,Parking technology services,3623,193,178,15,0
+INV20638,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,100000.0,2029-12-12,Open spaces management - region 2,3677,169,154,15,0
+INV20639,['ContractNumber'],['InvoiceDate'],Nationwide Towing Services,112050.76,2026-11-03,Vehicle tow away and impound services,3585,125,120,5,0
+INV20640,['ContractNumber'],"['InvoiceAmount', 'ContractTitle']",Spotless Facility Services Pty Ltd,100000.0,2029-11-12,Street cleaning,3669,173,158,15,0
+INV20641,['ContractNumber'],"['Provider', 'InvoiceDate']",SERCO,45211.29,2028-08-10,Open spaces management - region 2,3677,144,144,0,0
+INV20642,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,46497.45,2028-06-12,Building maintenance services,3630,159,144,15,0
+INV20643,['ContractNumber'],['InvoiceDate'],Victorian YMCA Community Programming Pty Ltd,240188.53,2026-08-01,Management of Active Melbourne recreation facilities,3615,120,120,0,0
+INV20644,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,52960.82,2029-07-04,Tree management maintenance services,3678,193,178,15,0
+INV20645,['ContractNumber'],['Provider'],Showtime Event Group Pty Ltd,8382.05,2026-03-06,Melbourne Town Hall venue management,3670,114,114,0,0
+INV20646,['ContractNumber'],['InvoiceDate'],Menzies International (Aust) Pty Ltd,236536.24,2026-11-02,Building cleaning services,3634,135,120,15,0
+INV20647,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,12619.29,2028-06-23,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20648,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,139015.44,2027-09-12,Building cleaning services,3634,159,144,15,0
+INV20649,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,186576.09,2028-11-11,Building cleaning services,3634,193,178,15,0
+INV20650,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,172400.34,2028-02-17,Civil infrastructure services, ,154,144,10,0
+INV20651,['ContractNumber'],"['Provider', 'InvoiceAmount']",National Protective Services Pty Ltd,200000.0,2027-12-30,Integrated security services,3686,148,148,0,0
+INV20652,['ContractNumber'],"['Provider', 'InvoiceAmount']",Spotless Facility Services Pty Ltd,99516.61,2027-07-04,Street cleaning,3669,148,148,0,0
+INV20653,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,70372.74,2029-08-25,Parking technology services,3623,193,178,15,0
+INV20654,['ContractNumber'],[],Citywide Service Solutions Pty Ltd,178353.38,2029-01-23,Tree management maintenance services,3678,99,94,5,0
+INV20655,['ContractNumber'],['Provider'],SERCO,168006.28,2026-02-22,Open spaces management - region 2,3677,114,114,0,0
+INV20656,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2027-08-13,Building cleaning services, ,164,154,10,0
+INV20657,['ContractNumber'],['Provider'],Menzies International (Aust) Pty Ltd,152544.78,2029-07-23,Building cleaning services,3634,129,114,15,0
+INV20658,['ContractNumber'],['Provider'],Calcorp Services Pty Ltd,190160.7,2025-06-09,Graffiti management and pressure cleaning services,3668,114,114,0,0
+INV20659,['ContractNumber'],"['Provider', 'InvoiceAmount']",Menzies International (Aust) Pty Ltd,223219.17,2029-08-19,Building cleaning services,3634,163,148,15,0
+INV20660,['ContractNumber'],['InvoiceAmount'],Menzies International (Aust) Pty Ltd,200000.0,2028-10-02,Building cleaning services,3634,139,124,15,0
+INV20661,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Reino International Pty Ltd T/A Duncan Solutions,200000.0,2028-05-15,Parking technology services,3623,227,212,15,0
+INV20662,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,200000.0,2026-06-08,Open spaces management - region 2,3677,154,154,0,0
+INV20663,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,150487.51,2026-06-11,Building maintenance services,3630,178,178,0,0
+INV20664,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,170580.46,2028-04-22,Building cleaning services,3634,159,144,15,0
+INV20665,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,24274.6,2025-04-27,Building cleaning services,3634,178,178,0,0
+INV20666,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,44086.25,2029-01-06,Building cleaning services,3634,159,144,15,0
+INV20667,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,63380.95,2029-10-30,Open spaces management - region 1,3676,163,148,15,0
+INV20668,['ContractNumber'],['Provider'],National Protective Services Pty Ltd,222682.88,2025-09-06,Integrated security services,3686,114,114,0,0
+INV20669,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,50203.41,2028-06-20,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20670,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,200000.0,2028-06-27,Open spaces management - region 2,3677,178,178,0,0
+INV20671,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,239014.12,2029-10-11,Open spaces management - region 1,3676,159,144,15,0
+INV20672,['ContractNumber'],['Provider'],Calcorp Services Pty Ltd,194650.59,2029-12-11,Graffiti management and pressure cleaning services, ,124,114,10,0
+INV20673,['ContractNumber'],[],SERCO,150029.07,2026-05-20,Open spaces management - region 2,3677,94,94,0,0
+INV20674,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,29701.45,2027-10-15,Civil infrastructure services,3665,178,178,0,0
+INV20675,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,0.0,2025-05-30,Building cleaning services,3634,185,178,0,7
+INV20676,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,76243.04,2025-05-24,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20677,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,229127.53,2025-03-24,Tree management maintenance services,3678,178,178,0,0
+INV20678,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,234998.37,2027-11-14,Open spaces management - region 1,3676,144,144,0,0
+INV20679,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,80940.09,2029-01-01,Street cleaning,3669,183,178,5,0
+INV20680,['ContractNumber'],"['Provider', 'InvoiceAmount']",Showtime Event Group Pty Ltd,245423.05,2029-02-02,Melbourne Town Hall venue management,3670,148,148,0,0
+INV20681,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,105997.07,2026-08-29,Management of Active Melbourne recreation facilities,3615,178,178,0,0
+INV20682,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,240368.95,2026-12-10,Open spaces management - region 1,3676,178,178,0,0
+INV20683,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,203913.48,2027-07-11,Open spaces management - region 2,3677,178,178,0,0
+INV20684,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,142676.34,2025-04-01,Tree management maintenance services,3678,178,178,0,0
+INV20685,['ContractNumber'],['InvoiceDate'],Showtime Event Group Pty Ltd,133766.5,2027-04-02,Melbourne Town Hall venue management, ,130,120,10,0
+INV20686,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,130108.03,2025-10-20,Tree management maintenance services,3678,178,178,0,0
+INV20687,['ContractNumber'],['Provider'],Nationwide Towing Services,66036.16,2026-01-18,Vehicle tow away and impound services,3585,114,114,0,0
+INV20688,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,200000.0,2027-03-02,Building maintenance services, ,188,178,10,0
+INV20689,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,225855.86,2028-10-09,Integrated security services, ,188,178,10,0
+INV20690,['ContractNumber'],['Provider'],Showtime Event Group Pty Ltd,221275.33,2026-08-11,Melbourne Town Hall venue management,3670,114,114,0,0
+INV20691,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,124651.97,2025-03-01,Civil infrastructure services,3665,178,178,0,0
+INV20692,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,66835.67,2026-11-16,Open spaces management - region 1, ,188,178,10,0
+INV20693,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2029-12-20,Building cleaning services,3634,193,178,15,0
+INV20694,['ContractNumber'],[],Citywide Service Solutions Pty Ltd,102658.98,2028-06-27,Tree management maintenance services,3678,94,94,0,0
+INV20695,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,69173.29,2026-02-17,Building cleaning services,3634,144,144,0,0
+INV20696,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,130817.96,2027-06-26,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20697,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,0.0,2029-09-18,Melbourne Town Hall venue management,3670,200,178,15,7
+INV20698,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,200000.0,2027-10-06,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20699,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,100000.0,2026-09-27,Waste management services,3556,193,178,15,0
+INV20700,['ContractNumber'],['InvoiceDate'],Reino International Pty Ltd T/A Duncan Solutions,225258.45,2025-12-08,Parking technology services,3623,120,120,0,0
+INV20701,['ContractNumber'],"['Provider', 'InvoiceAmount']",Spotless Facility Services Pty Ltd,200000.0,2029-11-12,Street cleaning,3669,163,148,15,0
+INV20702,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,34826.49,2028-03-10,Parking technology services, ,154,144,10,0
+INV20703,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,228000.4,2028-03-25,Street cleaning,3669,178,178,0,0
+INV20704,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,188800.5,2026-04-13,Building maintenance services,3630,144,144,0,0
+INV20705,"['InvoiceDate', 'ContractNumber']","['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,162728.15,,Building maintenance services,3630,223,223,0,0
+INV20706,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,0.0,2027-03-02,Vehicle tow away and impound services,3585,176,154,15,7
+INV20707,['ContractNumber'],['InvoiceDate'],Calcorp Services Pty Ltd,226667.12,2029-07-16,Graffiti management and pressure cleaning services,3668,135,120,15,0
+INV20708,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,199648.75,2029-09-21,Management of Active Melbourne recreation facilities,3615,159,144,15,0
+INV20709,['ContractNumber'],['InvoiceDate'],Spotless Facility Services Pty Ltd,233579.3,2027-12-05,Street cleaning,3669,120,120,0,0
+INV20710,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,159747.17,2027-07-02,Open spaces management - region 1,3676,144,144,0,0
+INV20711,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,228935.0,2025-12-15,Waste management services,3556,144,144,0,0
+INV20712,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,130799.13,2028-12-22,Building maintenance services,3630,159,144,15,0
+INV20713,['ContractNumber'],"['Provider', 'InvoiceDate']",SERCO,159211.52,2026-05-13,Open spaces management - region 2,3677,144,144,0,0
+INV20714,['ContractNumber'],"['Provider', 'InvoiceAmount']",Reino International Pty Ltd T/A Duncan Solutions,236508.8,2028-04-04,Parking technology services,3623,163,148,15,0
+INV20715,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,3969.54,2027-10-15,Integrated security services,3686,178,178,0,0
+INV20716,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,100000.0,2028-02-21,Integrated security services,3686,183,178,5,0
+INV20717,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,200000.0,2027-09-04,Street cleaning,3669,178,178,0,0
+INV20718,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,11585.48,2026-05-06,Management of Active Melbourne recreation facilities,3615,148,148,0,0
+INV20719,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,85069.79,2027-08-23,Civil infrastructure services,3665,148,148,0,0
+INV20720,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2027-11-01,Tree management maintenance services,3678,178,178,0,0
+INV20721,['ContractNumber'],"['Provider', 'InvoiceAmount']",Showtime Event Group Pty Ltd,0.0,2028-05-18,Melbourne Town Hall venue management,3670,155,148,0,7
+INV20722,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,32945.74,2027-04-28,Parking technology services,3623,159,144,15,0
+INV20723,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,37984.89,2025-08-21,Open spaces management - region 1,3676,114,114,0,0
+INV20724,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,29215.6,2025-02-27,Integrated security services,3686,144,144,0,0
+INV20725,['ContractNumber'],['Provider'],Calcorp Services Pty Ltd,229079.07,2029-09-18,Graffiti management and pressure cleaning services,3668,129,114,15,0
+INV20726,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,0.0,2025-07-27,Integrated security services,3686,161,154,0,7
+INV20727,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,201053.75,2027-05-09,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20728,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,100000.0,2027-01-02,Management of Active Melbourne recreation facilities,3615,178,178,0,0
+INV20729,['ContractNumber'],['InvoiceDate'],Nationwide Towing Services,220457.58,2026-09-19,Vehicle tow away and impound services, ,130,120,10,0
+INV20730,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,57067.29,2027-07-08,Management of Active Melbourne recreation facilities,3615,163,148,15,0
+INV20731,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,186825.47,2027-05-03,Civil infrastructure services,3665,114,114,0,0
+INV20732,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,198626.99,2025-03-04,Tree management maintenance services,3678,178,178,0,0
+INV20733,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,78461.22,2028-01-12,Tree management maintenance services,3678,120,120,0,0
+INV20734,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,195025.72,2027-11-21,Waste management services,3556,159,144,15,0
+INV20735,['ContractNumber'],['InvoiceAmount'],Programmed Facility Management Pty Ltd,126827.52,2028-11-15,Building maintenance services,3630,139,124,15,0
+INV20736,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,12774.96,2029-09-04,Open spaces management - region 1,3676,129,114,15,0
+INV20737,"['InvoiceAmount', 'ContractNumber']",['InvoiceDate'],Menzies International (Aust) Pty Ltd,,2027-07-26,Building cleaning services,3634,220,205,15,0
+INV20738,['ContractNumber'],"['Provider', 'InvoiceAmount']",National Protective Services Pty Ltd,69062.57,2029-04-14,Integrated security services,3686,163,148,15,0
+INV20739,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,200880.41,2027-01-13,Building maintenance services,3630,193,178,15,0
+INV20740,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,225604.15,2027-08-05,Street cleaning,3669,178,178,0,0
+INV20741,['ContractNumber'],[],Programmed Facility Management Pty Ltd,169559.55,2029-02-12,Building maintenance services,3630,109,94,15,0
+INV20742,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,225141.87,2029-12-13,Building cleaning services,3634,193,178,15,0
+INV20743,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Showtime Event Group Pty Ltd,42436.7,2029-08-17,Melbourne Town Hall venue management,3670,227,212,15,0
+INV20744,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,200000.0,2026-04-21,Building maintenance services,3630,178,178,0,0
+INV20745,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,129357.95,2029-06-13,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20746,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,72717.85,2028-05-06,Open spaces management - region 2,3677,178,178,0,0
+INV20747,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,116884.67,2026-07-10,Civil infrastructure services,3665,144,144,0,0
+INV20748,['ContractNumber'],['InvoiceDate'],Reino International Pty Ltd T/A Duncan Solutions,108688.33,2029-12-17,Parking technology services,3623,135,120,15,0
+INV20749,['ContractNumber'],['Provider'],Showtime Event Group Pty Ltd,79996.89,2026-12-05,Melbourne Town Hall venue management,3670,114,114,0,0
+INV20750,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,139110.19,2028-03-22,Building cleaning services,3634,193,178,15,0
+INV20751,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,9445.61,2027-06-14,Tree management maintenance services,3678,120,120,0,0
+INV20752,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,200000.0,2028-01-02,Waste management services,3556,193,178,15,0
+INV20753,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,80639.89,2028-12-12,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20754,['ContractNumber'],['InvoiceDate'],SERCO,529.65,2025-11-16,Open spaces management - region 2,3677,120,120,0,0
+INV20755,['ContractNumber'],['InvoiceAmount'],Calcorp Services Pty Ltd,236184.84,2028-02-27,Graffiti management and pressure cleaning services,3668,124,124,0,0
+INV20756,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,78820.03,2026-07-10,Vehicle tow away and impound services,3585,178,178,0,0
+INV20757,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,200000.0,2027-07-26,Integrated security services,3686,178,178,0,0
+INV20758,['ContractNumber'],['InvoiceDate'],Menzies International (Aust) Pty Ltd,149919.79,2028-01-24,Building cleaning services,3634,135,120,15,0
+INV20759,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,147352.78,2027-12-08,Parking technology services,3623,193,178,15,0
+INV20760,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,163394.24,2029-05-16,Graffiti management and pressure cleaning services,3668,193,178,15,0
+INV20761,['ContractNumber'],['InvoiceDate'],Reino International Pty Ltd T/A Duncan Solutions,63613.88,2029-10-04,Parking technology services,3623,135,120,15,0
+INV20762,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,61521.6,2026-07-04,Open spaces management - region 2,3677,178,178,0,0
+INV20763,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,72176.97,2028-08-12,Vehicle tow away and impound services,3585,193,178,15,0
+INV20764,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,50814.91,2025-09-18,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20765,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,100000.0,2028-05-31,Building cleaning services,3634,193,178,15,0
+INV20766,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,0.0,2029-11-01,Vehicle tow away and impound services,3585,176,154,15,7
+INV20767,['ContractNumber'],"['Provider', 'InvoiceDate', 'ContractTitle']",Cleanaway Waste Management Limited,107089.09,2025-03-17,Waste management services,3556,178,178,0,0
+INV20768,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,207710.3,2029-06-04,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20769,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,145636.1,2028-03-19,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20770,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,191337.63,2026-10-05,Street cleaning,3669,144,144,0,0
+INV20771,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,103346.4,2027-04-13,Building cleaning services,3634,159,144,15,0
+INV20772,['ContractNumber'],['InvoiceDate'],Spotless Facility Services Pty Ltd,138007.07,2026-02-01,Street cleaning,3669,120,120,0,0
+INV20773,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,30930.78,2025-02-21,Waste management services,3556,178,178,0,0
+INV20774,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,64497.27,2028-11-25,Vehicle tow away and impound services,3585,193,178,15,0
+INV20775,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,198394.84,2025-09-10,Tree management maintenance services, ,188,178,10,0
+INV20776,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,100000.0,2026-11-21,Open spaces management - region 2,3677,178,178,0,0
+INV20777,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,0.0,2025-02-25,Street cleaning,3669,161,154,0,7
+INV20778,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,27339.26,2028-06-07,Parking technology services,3623,193,178,15,0
+INV20779,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,140983.03,2027-11-13,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20780,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,23223.06,2029-05-22,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20781,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,27579.15,2029-01-10,Building cleaning services,3634,193,178,15,0
+INV20782,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,75601.22,2027-04-09,Tree management maintenance services,3678,144,144,0,0
+INV20783,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2029-07-14,Open spaces management - region 1,3676,193,178,15,0
+INV20784,['ContractNumber'],['InvoiceDate'],Programmed Facility Management Pty Ltd,67878.02,2027-02-04,Building maintenance services,3630,135,120,15,0
+INV20785,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,100000.0,2026-07-04,Building maintenance services,3630,183,178,5,0
+INV20786,['ContractNumber'],"['Provider', 'InvoiceAmount']",Nationwide Towing Services,200000.0,2027-04-28,Vehicle tow away and impound services,3585,163,148,15,0
+INV20787,"['InvoiceDate', 'ContractNumber']","['Provider', 'InvoiceAmount']",Programmed Facility Management Pty Ltd,100000.0,,Building maintenance services,3630,223,223,0,0
+INV20788,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,13138.01,2028-09-26,Open spaces management - region 1,3676,144,144,0,0
+INV20789,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,156213.52,2029-11-18,Parking technology services,3623,193,178,15,0
+INV20790,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,17595.84,2029-10-15,Street cleaning,3669,193,178,15,0
+INV20791,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,208428.42,2028-02-03,Open spaces management - region 1,3676,144,144,0,0
+INV20792,['ContractNumber'],['InvoiceDate'],SERCO,101714.83,2026-06-27,Open spaces management - region 2,3677,120,120,0,0
+INV20793,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,145400.71,2026-09-16,Parking technology services,3623,193,178,15,0
+INV20794,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,109455.0,2027-06-11,Street cleaning,3669,178,178,0,0
+INV20795,['ContractNumber'],['Provider'],SERCO,30744.16,2028-03-26,Open spaces management - region 2,3677,114,114,0,0
+INV20796,['ContractNumber'],"['Provider', 'InvoiceAmount']",Nationwide Towing Services,156266.75,2026-01-20,Vehicle tow away and impound services,3585,148,148,0,0
+INV20797,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Cleanaway Waste Management Limited,200000.0,2029-02-08,Waste management services,3556,203,188,15,0
+INV20798,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,212382.67,2028-09-08,Melbourne Town Hall venue management, ,154,144,10,0
+INV20799,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,245340.12,2025-09-10,Open spaces management - region 1,3665,188,178,10,0
+INV20800,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,248382.81,2028-06-15,Management of Active Melbourne recreation facilities,3615,163,148,15,0
+INV20801,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2027-11-23,Building cleaning services,3634,169,154,15,0
+INV20802,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,52806.07,2028-04-26,Street cleaning,3669,178,178,0,0
+INV20803,['ContractNumber'],['Provider'],Calcorp Services Pty Ltd,205861.4,2028-08-20,Graffiti management and pressure cleaning services,3668,114,114,0,0
+INV20804,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,15873.2,2026-08-19,Street cleaning,3669,178,178,0,0
+INV20805,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,100000.0,2025-10-21,Vehicle tow away and impound services,3585,178,178,0,0
+INV20806,"['InvoiceDate', 'ContractNumber']","['Provider', 'InvoiceAmount']",Reino International Pty Ltd T/A Duncan Solutions,100000.0,,Parking technology services,3623,223,223,0,0
+INV20807,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,52886.37,2029-02-16,Open spaces management - region 1,3676,125,120,5,0
+INV20808,['ContractNumber'],"['Provider', 'InvoiceAmount']",National Protective Services Pty Ltd,100000.0,2028-08-28,Integrated security services,3686,163,148,15,0
+INV20809,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,195642.09,2025-01-21,Parking technology services,3623,178,178,0,0
+INV20810,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,236067.85,2027-07-23,Open spaces management - region 2,3677,154,154,0,0
+INV20811,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,100000.0,2026-01-13,Parking technology services,3623,183,178,5,0
+INV20812,['ContractNumber'],[],Menzies International (Aust) Pty Ltd,28224.15,2025-05-30,Building cleaning services,3634,94,94,0,0
+INV20813,['ContractNumber'],[],Victorian YMCA Community Programming Pty Ltd,36882.8,2029-12-13,Management of Active Melbourne recreation facilities,3615,109,94,15,0
+INV20814,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,221415.68,2026-12-29,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20815,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,29981.32,2026-08-19,Civil infrastructure services,3665,178,178,0,0
+INV20816,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,100000.0,2027-10-20,Street cleaning,3669,178,178,0,0
+INV20817,['ContractNumber'],['Provider'],Nationwide Towing Services,227430.5,2029-06-25,Vehicle tow away and impound services,3585,129,114,15,0
+INV20818,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,128751.44,2028-07-19,Building cleaning services,3634,193,178,15,0
+INV20819,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,42527.21,2025-10-21,Open spaces management - region 2,3677,154,154,0,0
+INV20820,['ContractNumber'],"['Provider', 'InvoiceDate', 'ContractTitle']",Showtime Event Group Pty Ltd,98862.72,2028-07-08,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20821,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,66651.16,2025-11-23,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20822,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,107116.92,2025-01-14,Open spaces management - region 2,3677,154,154,0,0
+INV20823,['ContractNumber'],['InvoiceDate'],Nationwide Towing Services,141723.16,2029-09-06,Vehicle tow away and impound services,3585,135,120,15,0
+INV20824,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,221782.46,2026-04-20,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20825,['ContractNumber'],['Provider'],Spotless Facility Services Pty Ltd,155885.16,2025-12-05,Street cleaning,3669,114,114,0,0
+INV20826,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,17214.6,2027-12-01,Building maintenance services,3630,193,178,15,0
+INV20827,['ContractNumber'],[],Citywide Service Solutions Pty Ltd,86371.06,2027-05-08,Tree management maintenance services,3678,94,94,0,0
+INV20828,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,145061.63,2027-08-17,Graffiti management and pressure cleaning services, ,154,144,10,0
+INV20829,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,131282.71,2026-09-12,Open spaces management - region 1,3676,178,178,0,0
+INV20830,['ContractNumber'],['InvoiceDate'],SERCO,97743.61,2026-12-16,Open spaces management - region 2,3677,120,120,0,0
+INV20831,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,15525.76,2025-07-05,Open spaces management - region 1,3676,144,144,0,0
+INV20832,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,213878.09,2026-08-29,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20833,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,133717.6,2027-04-26,Parking technology services,3623,159,144,15,0
+INV20834,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,100000.0,2027-12-01,Waste management services,3556,193,178,15,0
+INV20835,['ContractNumber'],['InvoiceDate'],Showtime Event Group Pty Ltd,203637.42,2025-08-04,Melbourne Town Hall venue management,3670,120,120,0,0
+INV20836,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Cleanaway Waste Management Limited,0.0,2029-06-27,Waste management services,3556,234,212,15,7
+INV20837,['ContractNumber'],['InvoiceAmount'],Nationwide Towing Services,67993.22,2029-04-27,Vehicle tow away and impound services,3585,139,124,15,0
+INV20838,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,4589.98,2027-06-03,Civil infrastructure services,3665,154,154,0,0
+INV20839,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,0.0,2027-12-15,Building maintenance services,3630,200,178,15,7
+INV20840,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,200000.0,2028-08-01,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20841,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,0.0,2029-10-26,Management of Active Melbourne recreation facilities, ,195,178,10,7
+INV20842,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,159370.69,2027-06-27,Parking technology services,3623,169,154,15,0
+INV20843,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,132879.49,2026-07-11,Integrated security services,3686,178,178,0,0
+INV20844,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,168248.63,2025-01-11,Integrated security services,3686,144,144,0,0
+INV20845,['ContractNumber'],['InvoiceDate'],Programmed Facility Management Pty Ltd,100402.23,2028-07-04,Building maintenance services,3630,135,120,15,0
+INV20846,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,97923.73,2026-08-06,Graffiti management and pressure cleaning services,3668,154,154,0,0
+INV20847,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,83077.15,2028-12-10,Integrated security services,3686,193,178,15,0
+INV20848,['ContractNumber'],"['Provider', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,234482.38,2028-07-06,Parking technology services,3623,159,144,15,0
+INV20849,['ContractNumber'],"['Provider', 'InvoiceDate']",SERCO,243077.28,2026-08-14,Open spaces management - region 2,3677,144,144,0,0
+INV20850,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,75856.2,2026-03-31,Tree management maintenance services,3678,144,144,0,0
+INV20851,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,105326.46,2028-10-23,Parking technology services,3623,169,154,15,0
+INV20852,['ContractNumber'],['Provider'],Programmed Facility Management Pty Ltd,139643.94,2026-09-12,Building maintenance services,3630,119,114,5,0
+INV20853,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,3234.41,2027-10-29,Building maintenance services,3630,193,178,15,0
+INV20854,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,101178.72,2027-04-25,Civil infrastructure services,3665,178,178,0,0
+INV20855,['ContractNumber'],"['Provider', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,169496.93,2025-06-16,Building cleaning services,3634,144,144,0,0
+INV20856,['ContractNumber'],['InvoiceAmount'],Reino International Pty Ltd T/A Duncan Solutions,101202.01,2029-01-26,Parking technology services,3623,139,124,15,0
+INV20857,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,100361.46,2025-09-04,Melbourne Town Hall venue management,3670,154,154,0,0
+INV20858,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,106954.37,2029-11-19,Management of Active Melbourne recreation facilities,3615,163,148,15,0
+INV20859,['ContractNumber'],['InvoiceAmount'],Cleanaway Waste Management Limited,100000.0,2029-04-25,Waste management services,3556,139,124,15,0
+INV20860,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,145187.29,2027-01-12,Waste management services,3556,159,144,15,0
+INV20861,['ContractNumber'],['Provider'],Nationwide Towing Services,148680.42,2025-02-10,Vehicle tow away and impound services,3585,114,114,0,0
+INV20862,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Showtime Event Group Pty Ltd,4608.68,2029-12-08,Melbourne Town Hall venue management,3670,203,188,15,0
+INV20863,['ContractNumber'],['InvoiceAmount'],Citywide Service Solutions Pty Ltd,200000.0,2027-03-14,Open spaces management - region 1,3676,124,124,0,0
+INV20864,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,100000.0,2028-01-15,Building maintenance services,3630,193,178,15,0
+INV20865,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,174828.61,2026-09-26,Open spaces management - region 1,3676,178,178,0,0
+INV20866,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,204387.99,2026-09-08,Open spaces management - region 1,3676,144,144,0,0
+INV20867,"['InvoiceDate', 'ContractNumber']",['Provider'],Victorian YMCA Community Programming Pty Ltd,4813.89,,Management of Active Melbourne recreation facilities, ,199,189,10,0
+INV20868,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,200000.0,2026-10-08,Parking technology services,3623,193,178,15,0
+INV20869,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,0.0,2029-11-07,Open spaces management - region 1,3676,200,178,15,7
+INV20870,['ContractNumber'],"['Provider', 'InvoiceDate']",Nationwide Towing Services,152087.38,2025-01-30,Vehicle tow away and impound services,3585,144,144,0,0
+INV20871,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,55163.57,2028-02-28,Building cleaning services,3634,169,154,15,0
+INV20872,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,147797.59,2027-07-23,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20873,['ContractNumber'],"['InvoiceDate', 'ContractTitle']",Programmed Facility Management Pty Ltd,95249.38,2025-09-05,Building maintenance services,3630,154,154,0,0
+INV20874,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Spotless Facility Services Pty Ltd,220444.56,2028-08-12,Street cleaning,3669,212,212,0,0
+INV20875,['ContractNumber'],[],Citywide Service Solutions Pty Ltd,76642.32,2027-06-27,Civil infrastructure services,3665,94,94,0,0
+INV20876,['ContractNumber'],['InvoiceDate'],Spotless Facility Services Pty Ltd,23330.23,2027-05-03,Street cleaning,3669,120,120,0,0
+INV20877,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Citywide Service Solutions Pty Ltd,0.0,2026-09-02,Tree management maintenance services,3678,219,212,0,7
+INV20878,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,29074.61,2026-01-13,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20879,['ContractNumber'],['InvoiceDate'],Nationwide Towing Services,189028.25,2026-05-13,Vehicle tow away and impound services,3585,120,120,0,0
+INV20880,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,242527.54,2025-02-17,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20881,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,199964.06,2025-10-21,Open spaces management - region 1, ,164,154,10,0
+INV20882,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,9202.52,2026-03-24,Street cleaning,3669,178,178,0,0
+INV20883,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Citywide Service Solutions Pty Ltd,100000.0,2027-02-22,Civil infrastructure services,3665,212,212,0,0
+INV20884,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,209025.64,2026-10-08,Open spaces management - region 2,3677,178,178,0,0
+INV20885,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,242079.86,2028-04-27,Street cleaning,3669,154,154,0,0
+INV20886,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,139446.35,2028-05-10,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20887,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,179501.46,2026-09-20,Street cleaning,3669,144,144,0,0
+INV20888,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",National Protective Services Pty Ltd,0.0,2028-10-13,Integrated security services,3686,234,212,15,7
+INV20889,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,0.0,2027-09-12,Open spaces management - region 1,3676,185,178,0,7
+INV20890,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,74979.06,2026-08-24,Melbourne Town Hall venue management, ,188,178,10,0
+INV20891,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,85280.3,2025-08-14,Vehicle tow away and impound services,3585,154,154,0,0
+INV20892,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,89996.67,2029-07-19,Tree management maintenance services,3678,159,144,15,0
+INV20893,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",SERCO,57189.68,2029-01-21,Open spaces management - region 2,3677,159,154,5,0
+INV20894,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,222172.82,2029-12-24,Parking technology services,3623,193,178,15,0
+INV20895,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,118630.65,2026-01-20,Building maintenance services,3630,144,144,0,0
+INV20896,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,50306.95,2029-08-03,Graffiti management and pressure cleaning services,3668,159,144,15,0
+INV20897,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2025-11-04,Open spaces management - region 1,3676,178,178,0,0
+INV20898,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,100000.0,2025-10-15,Building cleaning services,3634,178,178,0,0
+INV20899,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,200000.0,2027-11-24,Vehicle tow away and impound services,3585,193,178,15,0
+INV20900,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2029-11-17,Civil infrastructure services,3665,193,178,15,0
+INV20901,['ContractNumber'],['InvoiceDate'],Citywide Service Solutions Pty Ltd,137296.62,2027-06-14,Open spaces management - region 1,3676,120,120,0,0
+INV20902,['ContractNumber'],['InvoiceDate'],National Protective Services Pty Ltd,4417.72,2027-11-23,Integrated security services,3686,120,120,0,0
+INV20903,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,162462.33,2028-12-09,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20904,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,200000.0,2028-02-18,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20905,['ContractNumber'],[],Calcorp Services Pty Ltd,52894.76,2027-07-29,Graffiti management and pressure cleaning services,3668,94,94,0,0
+INV20906,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,200000.0,2025-12-06,Integrated security services,3686,178,178,0,0
+INV20907,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2027-06-18,Building cleaning services,3634,193,178,15,0
+INV20908,['ContractNumber'],"['Provider', 'InvoiceAmount']",Spotless Facility Services Pty Ltd,198264.37,2028-03-24,Street cleaning,3669,148,148,0,0
+INV20909,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,97497.25,2026-03-17,Tree management maintenance services,3678,144,144,0,0
+INV20910,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,228876.07,2026-08-07,Management of Active Melbourne recreation facilities,3615,148,148,0,0
+INV20911,['ContractNumber'],['InvoiceDate'],Cleanaway Waste Management Limited,180585.97,2026-10-03,Waste management services,3556,135,120,15,0
+INV20912,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,200000.0,2026-06-03,Building cleaning services,3634,183,178,5,0
+INV20913,['ContractNumber'],['Provider'],Showtime Event Group Pty Ltd,76526.81,2026-05-24,Melbourne Town Hall venue management,3670,114,114,0,0
+INV20914,['ContractNumber'],['InvoiceAmount'],Nationwide Towing Services,15697.65,2029-07-28,Vehicle tow away and impound services,3585,139,124,15,0
+INV20915,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,75411.58,2028-08-12,Civil infrastructure services,3665,163,148,15,0
+INV20916,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,105031.33,2025-05-07,Integrated security services,3686,178,178,0,0
+INV20917,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,200000.0,2025-05-21,Street cleaning,3669,154,154,0,0
+INV20918,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,59600.35,2025-12-25,Open spaces management - region 2,3677,178,178,0,0
+INV20919,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,59060.09,2029-07-21,Open spaces management - region 1,3676,193,178,15,0
+INV20920,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,91332.43,2026-04-10,Building maintenance services,3630,178,178,0,0
+INV20921,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,110153.64,2025-09-29,Civil infrastructure services,3665,178,178,0,0
+INV20922,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,200000.0,2027-06-05,Open spaces management - region 2,3677,178,178,0,0
+INV20923,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2029-01-03,Open spaces management - region 1,3676,183,178,5,0
+INV20924,['ContractNumber'],['InvoiceAmount'],Showtime Event Group Pty Ltd,51785.68,2028-10-07,Melbourne Town Hall venue management,3670,124,124,0,0
+INV20925,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,237971.61,2025-07-23,Building maintenance services,3630,144,144,0,0
+INV20926,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,200000.0,2025-11-24,Vehicle tow away and impound services,3585,178,178,0,0
+INV20927,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,8724.79,2027-07-08,Building maintenance services,3630,159,144,15,0
+INV20928,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,102123.61,2029-06-01,Open spaces management - region 1,3676,163,148,15,0
+INV20929,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,101353.1,2026-03-26,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20930,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,26410.66,2025-01-24,Civil infrastructure services,3665,178,178,0,0
+INV20931,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Spotless Facility Services Pty Ltd,1293.47,2028-04-05,Street cleaning,3669,178,178,0,0
+INV20932,['ContractNumber'],"['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,129157.56,2028-09-07,Management of Active Melbourne recreation facilities,3615,163,148,15,0
+INV20933,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,244682.32,2029-05-10,Building cleaning services,3634,193,178,15,0
+INV20934,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,200000.0,2029-07-17,Parking technology services, ,188,178,10,0
+INV20935,['ContractNumber'],"['Provider', 'InvoiceDate']",Spotless Facility Services Pty Ltd,48444.75,2027-09-15,Street cleaning,3669,144,144,0,0
+INV20936,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,163820.38,2025-07-28,Open spaces management - region 2,3677,178,178,0,0
+INV20937,['ContractNumber'],"['Provider', 'InvoiceAmount']",SERCO,162773.98,2025-03-22,Open spaces management - region 2,3677,148,148,0,0
+INV20938,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,43299.49,2027-11-07,Civil infrastructure services,3665,178,178,0,0
+INV20939,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,231901.89,2027-03-07,Open spaces management - region 1,3676,148,148,0,0
+INV20940,"['InvoiceDate', 'ContractNumber']","['Provider', 'InvoiceAmount']",Cleanaway Waste Management Limited,30014.0,,Waste management services,3556,223,223,0,0
+INV20941,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,172019.96,2027-08-07,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20942,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,33501.97,2025-11-15,Civil infrastructure services,3665,114,114,0,0
+INV20943,['ContractNumber'],['InvoiceDate'],Cleanaway Waste Management Limited,40289.52,2025-06-03,Waste management services,3556,120,120,0,0
+INV20944,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,100000.0,2026-12-22,Integrated security services,3686,178,178,0,0
+INV20945,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,39676.67,2028-11-06,Management of Active Melbourne recreation facilities,3615,159,144,15,0
+INV20946,['ContractNumber'],['InvoiceDate'],SERCO,10170.02,2028-01-05,Open spaces management - region 2,3677,120,120,0,0
+INV20947,['ContractNumber'],"['Provider', 'InvoiceAmount']",Cleanaway Waste Management Limited,200000.0,2026-12-02,Waste management services,3556,163,148,15,0
+INV20948,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,60480.48,2027-07-03,Management of Active Melbourne recreation facilities,3615,159,144,15,0
+INV20949,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,156146.93,2028-01-12,Civil infrastructure services,3665,178,178,0,0
+INV20950,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,10934.45,2026-11-07,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20951,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,74418.05,2028-09-27,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20952,['ContractNumber'],"['Provider', 'InvoiceDate']",National Protective Services Pty Ltd,119858.59,2029-05-26,Integrated security services, ,154,144,10,0
+INV20953,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Menzies International (Aust) Pty Ltd,43023.09,2027-10-30,Building cleaning services,3634,193,178,15,0
+INV20954,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,200000.0,2026-06-05,Tree management maintenance services,3678,154,154,0,0
+INV20955,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,130003.93,2030-01-01,Building maintenance services,3630,193,178,15,0
+INV20956,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Programmed Facility Management Pty Ltd,57894.95,2029-05-27,Building maintenance services,3630,193,178,15,0
+INV20957,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Cleanaway Waste Management Limited,200000.0,2029-11-09,Waste management services,3556,193,178,15,0
+INV20958,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,139070.08,2025-09-05,Management of Active Melbourne recreation facilities, ,164,154,10,0
+INV20959,['ContractNumber'],['InvoiceAmount'],SERCO,114814.46,2027-06-26,Open spaces management - region 2,3677,124,124,0,0
+INV20960,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,0.0,2027-01-23,Civil infrastructure services,3665,185,178,0,7
+INV20961,"['InvoiceDate', 'ContractNumber']","['Provider', 'InvoiceAmount']",Victorian YMCA Community Programming Pty Ltd,100000.0,,Management of Active Melbourne recreation facilities,3615,223,223,0,0
+INV20962,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,162445.32,2025-03-29,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20963,['ContractNumber'],"['InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,14672.91,2028-09-07,Open spaces management - region 1,3676,154,154,0,0
+INV20964,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,118644.35,2025-12-10,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20965,['ContractNumber'],"['Provider', 'InvoiceAmount']",Menzies International (Aust) Pty Ltd,202500.46,2026-11-06,Building cleaning services,3634,163,148,15,0
+INV20966,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,11100.05,2025-10-30,Parking technology services,3623,178,178,0,0
+INV20967,"['InvoiceAmount', 'ContractNumber']",['InvoiceDate'],Citywide Service Solutions Pty Ltd,,2025-02-18,Tree management maintenance services,3678,205,205,0,0
+INV20968,['ContractNumber'],['InvoiceAmount'],Menzies International (Aust) Pty Ltd,6276.97,2025-02-25,Building cleaning services,3634,124,124,0,0
+INV20969,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate', 'ContractTitle']",Citywide Service Solutions Pty Ltd,0.0,2029-12-15,Open spaces management - region 1,3676,234,212,15,7
+INV20970,['ContractNumber'],"['Provider', 'InvoiceAmount']",Spotless Facility Services Pty Ltd,226968.6,2028-12-26,Street cleaning,3669,148,148,0,0
+INV20971,['ContractNumber'],['Provider'],Citywide Service Solutions Pty Ltd,89650.8,2025-08-25,Tree management maintenance services,3678,114,114,0,0
+INV20972,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,217750.56,2026-06-12,Management of Active Melbourne recreation facilities,3615,178,178,0,0
+INV20973,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,167897.55,2028-07-25,Integrated security services,3686,193,178,15,0
+INV20974,['ContractNumber'],['InvoiceAmount'],SERCO,246667.31,2028-02-24,Open spaces management - region 2,3677,124,124,0,0
+INV20975,['ContractNumber'],"['Provider', 'InvoiceDate']",Showtime Event Group Pty Ltd,73266.96,2028-02-01,Melbourne Town Hall venue management,3670,144,144,0,0
+INV20976,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,7483.98,2029-04-03,Graffiti management and pressure cleaning services,3668,193,178,15,0
+INV20977,['ContractNumber'],['InvoiceAmount'],Citywide Service Solutions Pty Ltd,200000.0,2025-03-19,Open spaces management - region 1,3676,124,124,0,0
+INV20978,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,192142.89,2025-10-22,Graffiti management and pressure cleaning services,3668,178,178,0,0
+INV20979,['ContractNumber'],"['Provider', 'InvoiceDate']",Programmed Facility Management Pty Ltd,119058.78,2029-09-19,Building maintenance services,3630,159,144,15,0
+INV20980,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",National Protective Services Pty Ltd,183850.91,2029-09-04,Integrated security services,3686,193,178,15,0
+INV20981,['ContractNumber'],"['Provider', 'InvoiceAmount']",Showtime Event Group Pty Ltd,1064.58,2029-08-06,Melbourne Town Hall venue management,3670,163,148,15,0
+INV20982,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,249201.99,2029-11-14,Tree management maintenance services,3678,193,178,15,0
+INV20983,['ContractNumber'],['InvoiceDate'],SERCO,63989.54,2026-11-15,Open spaces management - region 2,3677,120,120,0,0
+INV20984,['ContractNumber'],"['Provider', 'InvoiceDate']",Cleanaway Waste Management Limited,42722.43,2025-09-01,Waste management services,3556,144,144,0,0
+INV20985,['ContractNumber'],"['Provider', 'InvoiceAmount']",Calcorp Services Pty Ltd,200000.0,2026-06-07,Graffiti management and pressure cleaning services,3668,148,148,0,0
+INV20986,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,90584.59,2026-02-25,Management of Active Melbourne recreation facilities,3615,178,178,0,0
+INV20987,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Nationwide Towing Services,36898.08,2027-12-31,Vehicle tow away and impound services,3585,193,178,15,0
+INV20988,['ContractNumber'],['InvoiceDate'],Reino International Pty Ltd T/A Duncan Solutions,102985.37,2027-07-28,Parking technology services,3623,135,120,15,0
+INV20989,['ContractNumber'],['InvoiceDate'],SERCO,13146.32,2028-10-26,Open spaces management - region 2,3677,120,120,0,0
+INV20990,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Showtime Event Group Pty Ltd,177663.24,2025-09-24,Melbourne Town Hall venue management,3670,178,178,0,0
+INV20991,['ContractNumber'],"['Provider', 'InvoiceAmount']",National Protective Services Pty Ltd,100000.0,2027-05-22,Integrated security services,3686,148,148,0,0
+INV20992,['ContractNumber'],"['Provider', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,123671.58,2028-09-27,Management of Active Melbourne recreation facilities,3615,159,144,15,0
+INV20993,['ContractNumber'],"['Provider', 'InvoiceAmount']",Citywide Service Solutions Pty Ltd,1367.63,2025-04-04,Open spaces management - region 1,3676,148,148,0,0
+INV20994,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Reino International Pty Ltd T/A Duncan Solutions,100000.0,2028-08-24,Parking technology services,3623,193,178,15,0
+INV20995,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Victorian YMCA Community Programming Pty Ltd,245591.3,2028-10-24,Management of Active Melbourne recreation facilities,3615,193,178,15,0
+INV20996,['ContractNumber'],"['Provider', 'InvoiceDate']",Citywide Service Solutions Pty Ltd,21594.55,2027-11-20,Civil infrastructure services,3665,144,144,0,0
+INV20997,['ContractNumber'],"['Provider', 'InvoiceDate']",Calcorp Services Pty Ltd,15755.04,2027-03-28,Graffiti management and pressure cleaning services,3668,144,144,0,0
+INV20998,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",SERCO,0.0,2028-07-01,Open spaces management - region 2,3677,185,178,0,7
+INV20999,['ContractNumber'],"['Provider', 'InvoiceAmount']",Cleanaway Waste Management Limited,200000.0,2025-02-25,Waste management services,3556,148,148,0,0
+INV21000,['ContractNumber'],"['Provider', 'InvoiceAmount', 'InvoiceDate']",Calcorp Services Pty Ltd,168156.9,2025-02-07,Graffiti management and pressure cleaning services, ,188,178,10,0
