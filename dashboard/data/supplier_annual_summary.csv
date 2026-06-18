@@ -1,19 +1,20 @@
 Provider_Clean,ContractTitle_Clean,ContractNumber_Clean,Year,AnnualSpend,RiskScore,DataQualityRisk,ContractRisk,FinancialRisk,ComplianceFlag
+Calcorp Services Pty Ltd,Building cleaning services, ,2028.0,114507.0,273.0,263.0,10.0,0.0,ContractMismatch
 Calcorp Services Pty Ltd,Building maintenance services, ,2025.0,134622.4,266.5,256.5,10.0,0.0,ContractMismatch
 Calcorp Services Pty Ltd,Building maintenance services, ,2029.0,360092.93,227.0,217.0,10.0,0.0,ContractMismatch
 Calcorp Services Pty Ltd,Civil infrastructure services, ,2026.0,80657.86,243.0,233.0,10.0,0.0,ContractMismatch
 Calcorp Services Pty Ltd,Civil infrastructure services, ,2027.0,175583.22,249.0,239.0,10.0,0.0,ContractMismatch
 Calcorp Services Pty Ltd,Civil infrastructure services, ,2029.0,150891.86,239.0,229.0,10.0,0.0,ContractMismatch
-Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services, ,2025.0,16876024.82,167.51127819548873,157.14285714285714,10.0,0.3684210526315789,ContractMismatch
-Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services, ,2026.0,20125697.69,162.57988165680473,152.20710059171597,10.0,0.3727810650887574,ContractMismatch
+Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services, ,2025.0,17184843.27,167.8148148148148,157.45185185185184,10.0,0.362962962962963,ContractMismatch
+Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services, ,2026.0,20367761.54,162.72941176470587,152.35882352941175,10.0,0.37058823529411766,ContractMismatch
 Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services, ,2027.0,20352502.4,163.01234567901236,152.8827160493827,10.0,0.12962962962962962,ContractMismatch
 Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services, ,2028.0,18602546.89,168.59027777777777,158.15277777777777,10.0,0.4375,ContractMismatch
-Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services, ,2029.0,17470591.77,164.8661971830986,154.61971830985917,10.0,0.24647887323943662,ContractMismatch
-Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2025.0,357902591.65,157.33287764866714,157.03861927546137,0.0,0.2942583732057416,OverUpper
-Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2026.0,357420810.33,156.5494355114608,156.2476907287034,0.0,0.301744782757441,OverUpper
-Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2027.0,374541230.41,156.47986688851913,156.2352745424293,0.0,0.24459234608985025,OverUpper
-Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2028.0,357588381.77,156.58769544527533,156.27362338545208,0.0,0.3140720598232495,OverUpper
-Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2029.0,362226757.79,169.2675093952853,156.53604373078238,12.468397676802187,0.26306798770071743,OverUpper
+Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services, ,2029.0,17682008.56,164.62237762237763,154.37762237762237,10.0,0.24475524475524477,ContractMismatch
+Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2025.0,358765658.31,157.30242072962838,157.0088646437095,0.0,0.2935560859188544,OverUpper
+Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2026.0,359699922.22,156.56938775510204,156.26938775510203,0.0,0.3,OverUpper
+Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2027.0,376063498.88,156.46184472461846,156.21798274717983,0.0,0.2438619774386198,OverUpper
+Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2028.0,359892889.27,156.60033783783783,156.28344594594594,0.0,0.3168918918918919,OverUpper
+Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2029.0,364421637.89,169.19870923913044,156.46433423913044,12.472826086956522,0.26154891304347827,OverUpper
 Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3668,2030.0,1266133.05,170.16666666666666,155.16666666666666,15.0,0.0,UnderLower
 Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3669,2025.0,333490.55,205.0,195.0,10.0,0.0,ContractMismatch
 Calcorp Services Pty Ltd,Graffiti management and pressure cleaning services,3669,2026.0,953174.0,217.75,207.75,10.0,0.0,ContractMismatch
@@ -54,14 +55,14 @@ Citywide Service Solutions Pty Ltd,Building maintenance services, ,2028.0,165682
 Citywide Service Solutions Pty Ltd,Building maintenance services, ,2029.0,97252.96,209.0,199.0,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Civil infrastructure services, ,2025.0,17856862.71,164.61313868613138,154.35766423357666,10.0,0.25547445255474455,ContractMismatch
 Citywide Service Solutions Pty Ltd,Civil infrastructure services, ,2026.0,16727535.94,167.13475177304966,156.53900709219857,10.0,0.5957446808510638,ContractMismatch
-Citywide Service Solutions Pty Ltd,Civil infrastructure services, ,2027.0,18064790.96,164.54193548387096,154.18064516129033,10.0,0.36129032258064514,ContractMismatch
-Citywide Service Solutions Pty Ltd,Civil infrastructure services, ,2028.0,17198752.3,163.94927536231884,153.7463768115942,10.0,0.2028985507246377,ContractMismatch
+Citywide Service Solutions Pty Ltd,Civil infrastructure services, ,2027.0,18075504.75,164.47435897435898,154.1153846153846,10.0,0.358974358974359,ContractMismatch
+Citywide Service Solutions Pty Ltd,Civil infrastructure services, ,2028.0,17352083.94,163.70503597122303,153.50359712230215,10.0,0.2014388489208633,ContractMismatch
 Citywide Service Solutions Pty Ltd,Civil infrastructure services, ,2029.0,16852725.4,163.60992907801418,153.4113475177305,10.0,0.19858156028368795,ContractMismatch
-Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2025.0,358783133.67,157.18792401628224,156.862618724559,0.0,0.32530529172320216,OverUpper
-Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2026.0,357941023.24,156.27069735486089,156.00858811405016,0.0,0.26210924081071796,OverUpper
-Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2027.0,359746388.55,156.5151726543425,156.25392396232996,0.0,0.2612486920125567,OverUpper
-Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2028.0,348113872.82,165.09668411867364,156.2694589877836,8.55846422338569,0.268760907504363,OverUpper
-Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2029.0,350142270.89,171.81983240223462,156.5338687150838,15.0,0.285963687150838,OverUpper
+Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2025.0,360549376.91,157.13677811550153,156.8129010469436,0.0,0.32387706855791965,OverUpper
+Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2026.0,360632398.17,156.2705561241897,156.00784715114295,0.0,0.26270897304674173,OverUpper
+Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2027.0,361473719.83,156.51890391952827,156.25667707249394,0.0,0.26222684703433924,OverUpper
+Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2028.0,350581025.33,165.07177531206656,156.24202496532592,8.562760055478503,0.2669902912621359,OverUpper
+Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2029.0,351311946.36,171.79123173277662,156.5062630480167,15.0,0.2849686847599165,OverUpper
 Citywide Service Solutions Pty Ltd,Civil infrastructure services,3665,2030.0,857243.44,179.33333333333334,164.33333333333334,15.0,0.0,UnderLower
 Citywide Service Solutions Pty Ltd,Civil infrastructure services,3676,2025.0,1341660.68,175.45454545454547,164.8181818181818,10.0,0.6363636363636364,ContractMismatch
 Citywide Service Solutions Pty Ltd,Civil infrastructure services,3676,2026.0,1054996.4,169.14285714285714,159.14285714285714,10.0,0.0,ContractMismatch
@@ -95,17 +96,17 @@ Citywide Service Solutions Pty Ltd,Open spaces management - region 1, ,2026.0,19
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1, ,2027.0,15992085.48,160.1846153846154,150.07692307692307,10.0,0.1076923076923077,ContractMismatch
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1, ,2028.0,20910553.06,163.99401197604791,153.7005988023952,10.0,0.2934131736526946,ContractMismatch
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1, ,2029.0,21883487.79,164.1304347826087,153.94021739130434,10.0,0.19021739130434784,ContractMismatch
-Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3665,2025.0,1979965.98,161.66666666666666,151.66666666666666,10.0,0.0,ContractMismatch
+Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3665,2025.0,2130033.49,161.07692307692307,151.07692307692307,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3665,2026.0,673006.46,169.63636363636363,159.63636363636363,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3665,2027.0,1374874.02,169.11111111111111,159.11111111111111,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3665,2028.0,1850433.38,159.63636363636363,149.63636363636363,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3665,2029.0,2064946.03,172.26666666666668,161.8,10.0,0.4666666666666667,ContractMismatch
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3665,2030.0,200000.0,188.0,178.0,10.0,0.0,ContractMismatch
-Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2025.0,366814171.7,155.8623914495658,155.59819639278558,0.0,0.26419505678022714,OverUpper
-Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2026.0,366690626.66,156.68216794914687,156.41050518568082,0.0,0.2716627634660422,OverUpper
-Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2027.0,380512423.61,156.06321277289018,155.81231671554252,0.0,0.25089605734767023,OverUpper
-Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2028.0,353236970.08,157.09854267869534,156.81887578070786,0.01734906315058987,0.2623178348369188,OverUpper
-Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2029.0,370118558.98,169.41825972313777,156.5102175346078,12.633487145682267,0.27455504284772575,OverUpper
+Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2025.0,368726238.82,155.85172872340425,155.58876329787233,0.0,0.2629654255319149,OverUpper
+Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2026.0,367969747.41,156.697,156.42633333333333,0.0,0.27066666666666667,OverUpper
+Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2027.0,381496291.74,156.0633116883117,155.81103896103897,0.0,0.25227272727272726,OverUpper
+Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2028.0,354596075.61,157.10355540214013,156.82292026234035,0.01725923369002416,0.26337590610976874,OverUpper
+Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2029.0,372123124.98,169.38365605513619,156.47325237938955,12.6370200196915,0.2733836560551362,OverUpper
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3676,2030.0,1878339.3,172.52941176470588,157.52941176470588,15.0,0.0,UnderLower
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3678,2025.0,1689313.17,167.26666666666668,156.8,10.0,0.4666666666666667,ContractMismatch
 Citywide Service Solutions Pty Ltd,Open spaces management - region 1,3678,2026.0,1734195.63,167.0,156.46153846153845,10.0,0.5384615384615384,ContractMismatch
@@ -124,12 +125,12 @@ Citywide Service Solutions Pty Ltd,Street cleaning, ,2026.0,236770.12,273.0,263.
 Citywide Service Solutions Pty Ltd,Street cleaning, ,2027.0,300000.0,258.0,248.0,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Street cleaning, ,2028.0,69329.8,249.0,239.0,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Street cleaning, ,2029.0,249121.95,253.66666666666666,243.66666666666666,10.0,0.0,ContractMismatch
-Citywide Service Solutions Pty Ltd,Tree management maintenance services, ,2025.0,18226110.33,167.125,156.81875,10.0,0.30625,ContractMismatch
+Citywide Service Solutions Pty Ltd,Tree management maintenance services, ,2025.0,18562286.85,167.02469135802468,156.72222222222223,10.0,0.30246913580246915,ContractMismatch
 Citywide Service Solutions Pty Ltd,Tree management maintenance services, ,2026.0,18513015.06,164.14,153.76666666666668,10.0,0.37333333333333335,ContractMismatch
 Citywide Service Solutions Pty Ltd,Tree management maintenance services, ,2027.0,17847039.49,166.06944444444446,155.77777777777777,10.0,0.2916666666666667,ContractMismatch
-Citywide Service Solutions Pty Ltd,Tree management maintenance services, ,2028.0,20204888.96,164.93125,154.66875,10.0,0.2625,ContractMismatch
+Citywide Service Solutions Pty Ltd,Tree management maintenance services, ,2028.0,20420082.64,164.71428571428572,154.45341614906832,10.0,0.2608695652173913,ContractMismatch
 Citywide Service Solutions Pty Ltd,Tree management maintenance services, ,2029.0,17977501.93,168.73793103448276,158.30344827586208,10.0,0.43448275862068964,ContractMismatch
-Citywide Service Solutions Pty Ltd,Tree management maintenance services,3665,2025.0,660330.95,168.71428571428572,158.71428571428572,10.0,0.0,ContractMismatch
+Citywide Service Solutions Pty Ltd,Tree management maintenance services,3665,2025.0,781182.35,168.125,158.125,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Tree management maintenance services,3665,2026.0,1702031.76,160.07692307692307,149.53846153846155,10.0,0.5384615384615384,ContractMismatch
 Citywide Service Solutions Pty Ltd,Tree management maintenance services,3665,2027.0,783803.86,170.0,158.44444444444446,10.0,1.5555555555555556,ContractMismatch
 Citywide Service Solutions Pty Ltd,Tree management maintenance services,3665,2028.0,1723582.83,167.26666666666668,156.8,10.0,0.4666666666666667,ContractMismatch
@@ -139,11 +140,11 @@ Citywide Service Solutions Pty Ltd,Tree management maintenance services,3676,202
 Citywide Service Solutions Pty Ltd,Tree management maintenance services,3676,2027.0,1178509.94,169.0,159.0,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Tree management maintenance services,3676,2028.0,843506.78,167.25,157.25,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Tree management maintenance services,3676,2029.0,499608.49,178.28571428571428,166.28571428571428,10.0,2.0,ContractMismatch
-Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2025.0,371015304.11,157.4396782841823,157.1769436997319,0.0,0.26273458445040215,OverUpper
-Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2026.0,373728531.69,156.78195488721803,156.4913370382478,0.0,0.2906178489702517,OverUpper
-Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2027.0,363700552.85,156.43239579803458,156.13825821755339,0.0,0.2941375804811928,OverUpper
-Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2028.0,367558729.06,155.91749400890106,155.64703868538172,0.006846970215679562,0.2636083533036631,OverUpper
-Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2029.0,350948484.93,170.24103099965168,157.35632183908046,12.638453500522466,0.2462556600487635,OverUpper
+Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2025.0,372731369.98,157.41927951967978,157.15543695797197,0.0,0.2638425617078052,OverUpper
+Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2026.0,374965178.49,156.79244053437603,156.5027696318019,0.0,0.28967090257412836,OverUpper
+Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2027.0,365337010.82,156.4355600539811,156.140350877193,0.0,0.29520917678812414,OverUpper
+Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2028.0,369056272.03,155.86682561307902,155.59775204359673,0.006811989100817439,0.2622615803814714,OverUpper
+Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2029.0,353189311.35,170.2571824160609,157.37071651090343,12.639321564555209,0.24714434060228452,OverUpper
 Citywide Service Solutions Pty Ltd,Tree management maintenance services,3678,2030.0,1158508.03,162.5,147.5,15.0,0.0,UnderLower
 Citywide Service Solutions Pty Ltd,Vehicle tow away and impound services, ,2025.0,226107.68,273.0,263.0,10.0,0.0,ContractMismatch
 Citywide Service Solutions Pty Ltd,Vehicle tow away and impound services, ,2026.0,0.0,256.0,239.0,10.0,7.0,ContractMismatch
@@ -184,29 +185,29 @@ Cleanaway Waste Management Limited,Tree management maintenance services, ,2026.0
 Cleanaway Waste Management Limited,Tree management maintenance services, ,2027.0,223268.02,273.0,263.0,10.0,0.0,ContractMismatch
 Cleanaway Waste Management Limited,Tree management maintenance services, ,2029.0,100000.0,273.0,263.0,10.0,0.0,ContractMismatch
 Cleanaway Waste Management Limited,Vehicle tow away and impound services, ,2026.0,151207.89,273.0,263.0,10.0,0.0,ContractMismatch
-Cleanaway Waste Management Limited,Waste management services, ,2025.0,19671412.0,167.96385542168676,157.5843373493976,10.0,0.3795180722891566,ContractMismatch
+Cleanaway Waste Management Limited,Waste management services, ,2025.0,19871412.0,167.90419161676647,157.52694610778443,10.0,0.3772455089820359,ContractMismatch
 Cleanaway Waste Management Limited,Waste management services, ,2026.0,18380718.52,165.04827586206898,154.8551724137931,10.0,0.19310344827586207,ContractMismatch
 Cleanaway Waste Management Limited,Waste management services, ,2027.0,20115195.05,166.50310559006212,156.32919254658384,10.0,0.17391304347826086,ContractMismatch
-Cleanaway Waste Management Limited,Waste management services, ,2028.0,18491783.6,166.6778523489933,156.39597315436242,10.0,0.28187919463087246,ContractMismatch
-Cleanaway Waste Management Limited,Waste management services, ,2029.0,20811228.87,164.42944785276075,154.17177914110428,10.0,0.25766871165644173,ContractMismatch
+Cleanaway Waste Management Limited,Waste management services, ,2028.0,18526724.29,166.59333333333333,156.31333333333333,10.0,0.28,ContractMismatch
+Cleanaway Waste Management Limited,Waste management services, ,2029.0,20925982.76,164.5731707317073,154.3170731707317,10.0,0.25609756097560976,ContractMismatch
 Cleanaway Waste Management Limited,Waste management services, ,2030.0,0.0,195.0,178.0,10.0,7.0,ContractMismatch
-Cleanaway Waste Management Limited,Waste management services,3556,2025.0,369342247.19,157.60449513586045,157.3321033210332,0.0,0.2723918148272392,WithinBounds
-Cleanaway Waste Management Limited,Waste management services,3556,2026.0,363386645.2,169.3721088435374,156.6748299319728,12.387755102040817,0.30952380952380953,WithinBounds
-Cleanaway Waste Management Limited,Waste management services,3556,2027.0,365146914.59,171.535240040858,156.24685052774942,15.0,0.2883895131086142,WithinBounds
-Cleanaway Waste Management Limited,Waste management services,3556,2028.0,359520780.49,171.67635135135134,156.40202702702703,15.0,0.2743243243243243,WithinBounds
-Cleanaway Waste Management Limited,Waste management services,3556,2029.0,367244243.65,172.64366666666666,157.38466666666667,15.0,0.259,WithinBounds
+Cleanaway Waste Management Limited,Waste management services,3556,2025.0,371673261.83,157.5895298432811,157.3187729243081,0.0,0.270756918972991,WithinBounds
+Cleanaway Waste Management Limited,Waste management services,3556,2026.0,365100724.0,169.38482384823848,156.6849593495935,12.39159891598916,0.30826558265582654,WithinBounds
+Cleanaway Waste Management Limited,Waste management services,3556,2027.0,366884101.44,171.58406779661016,156.29457627118643,15.0,0.2894915254237288,WithinBounds
+Cleanaway Waste Management Limited,Waste management services,3556,2028.0,361728312.93,171.62848505206583,156.3557272421901,15.0,0.2727578098757138,WithinBounds
+Cleanaway Waste Management Limited,Waste management services,3556,2029.0,368967145.63,172.61022576361222,157.34993359893758,15.0,0.2602921646746348,WithinBounds
 Cleanaway Waste Management Limited,Waste management services,3556,2030.0,32082.2,159.0,144.0,15.0,0.0,UnderLower
-Menzies International (Aust) Pty Ltd,Building cleaning services, ,2025.0,18215043.45,169.12,158.79333333333332,10.0,0.32666666666666666,ContractMismatch
-Menzies International (Aust) Pty Ltd,Building cleaning services, ,2026.0,17943993.57,168.8679245283019,158.60377358490567,10.0,0.2641509433962264,ContractMismatch
+Menzies International (Aust) Pty Ltd,Building cleaning services, ,2025.0,18437504.01,169.01986754966887,158.6953642384106,10.0,0.32450331125827814,ContractMismatch
+Menzies International (Aust) Pty Ltd,Building cleaning services, ,2026.0,18043993.57,168.8375,158.575,10.0,0.2625,ContractMismatch
 Menzies International (Aust) Pty Ltd,Building cleaning services, ,2027.0,20545975.44,161.12422360248448,150.86335403726707,10.0,0.2608695652173913,ContractMismatch
 Menzies International (Aust) Pty Ltd,Building cleaning services, ,2028.0,17347359.81,164.30322580645162,153.80645161290323,10.0,0.4967741935483871,ContractMismatch
 Menzies International (Aust) Pty Ltd,Building cleaning services, ,2029.0,17231043.330000002,165.55479452054794,155.26712328767124,10.0,0.2876712328767123,ContractMismatch
 Menzies International (Aust) Pty Ltd,Building cleaning services, ,2030.0,0.0,195.0,178.0,10.0,7.0,ContractMismatch
-Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2025.0,364243460.95,156.8536834924966,156.55525238744883,0.0,0.298431105047749,OverUpper
-Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2026.0,361065876.99,166.6523990334829,157.52882292026234,8.850535036244391,0.27304107697618224,OverUpper
-Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2027.0,343282492.4,173.21573513705945,157.91918832324671,15.0,0.2965468138127447,OverUpper
-Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2028.0,368320818.91,172.56935047361299,157.31359945872802,15.0,0.2557510148849797,OverUpper
-Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2029.0,354161044.53,172.6031523642732,157.29912434325743,15.0,0.3040280210157618,OverUpper
+Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2025.0,365917074.87,156.8097179748556,156.51240231056744,0.0,0.2973156642881414,OverUpper
+Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2026.0,363104041.69,166.6459478021978,157.52918956043956,8.842719780219781,0.27403846153846156,OverUpper
+Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2027.0,344069103.97,173.21314387211368,157.91722912966253,15.0,0.2959147424511545,OverUpper
+Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2028.0,369659281.28,172.58105830805528,157.32153690596562,15.0,0.25952140208965285,OverUpper
+Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2029.0,355186350.44,172.60258199581298,157.29483600837403,15.0,0.3077459874389393,OverUpper
 Menzies International (Aust) Pty Ltd,Building cleaning services,3634,2030.0,843552.59,163.14285714285714,147.14285714285714,15.0,1.0,UnderLower
 Menzies International (Aust) Pty Ltd,Building maintenance services, ,2025.0,200000.0,273.0,263.0,10.0,0.0,ContractMismatch
 Menzies International (Aust) Pty Ltd,Building maintenance services, ,2026.0,116827.6,243.0,233.0,10.0,0.0,ContractMismatch
@@ -234,7 +235,7 @@ Menzies International (Aust) Pty Ltd,Tree management maintenance services, ,2025
 Menzies International (Aust) Pty Ltd,Tree management maintenance services, ,2026.0,100000.0,273.0,263.0,10.0,0.0,ContractMismatch
 Menzies International (Aust) Pty Ltd,Vehicle tow away and impound services, ,2025.0,193616.64,273.0,263.0,10.0,0.0,ContractMismatch
 Menzies International (Aust) Pty Ltd,Waste management services, ,2029.0,259883.08,256.0,246.0,10.0,0.0,ContractMismatch
-National Protective Services Pty Ltd,Building maintenance services, ,2025.0,100000.0,243.0,233.0,10.0,0.0,ContractMismatch
+National Protective Services Pty Ltd,Building maintenance services, ,2025.0,200000.0,258.0,248.0,10.0,0.0,ContractMismatch
 National Protective Services Pty Ltd,Building maintenance services, ,2028.0,25435.64,249.0,239.0,10.0,0.0,ContractMismatch
 National Protective Services Pty Ltd,Building maintenance services, ,2029.0,100000.0,273.0,263.0,10.0,0.0,ContractMismatch
 National Protective Services Pty Ltd,Civil infrastructure services, ,2025.0,187751.37,256.0,246.0,10.0,0.0,ContractMismatch
@@ -244,14 +245,14 @@ National Protective Services Pty Ltd,Civil infrastructure services, ,2029.0,2000
 National Protective Services Pty Ltd,Graffiti management and pressure cleaning services, ,2029.0,85138.34,273.0,263.0,10.0,0.0,ContractMismatch
 National Protective Services Pty Ltd,Integrated security services, ,2025.0,19417711.43,167.30967741935484,157.03870967741935,10.0,0.2709677419354839,ContractMismatch
 National Protective Services Pty Ltd,Integrated security services, ,2026.0,16768269.18,168.28030303030303,157.8030303030303,10.0,0.4772727272727273,ContractMismatch
-National Protective Services Pty Ltd,Integrated security services, ,2027.0,15161422.83,163.95081967213116,153.6639344262295,10.0,0.28688524590163933,ContractMismatch
+National Protective Services Pty Ltd,Integrated security services, ,2027.0,15361422.83,164.14634146341464,153.8617886178862,10.0,0.2845528455284553,ContractMismatch
 National Protective Services Pty Ltd,Integrated security services, ,2028.0,16852662.86,164.2394366197183,154.04225352112675,10.0,0.19718309859154928,ContractMismatch
 National Protective Services Pty Ltd,Integrated security services, ,2029.0,19395851.01,163.36486486486487,153.22297297297297,10.0,0.14189189189189189,ContractMismatch
-National Protective Services Pty Ltd,Integrated security services,3686,2025.0,364409724.1,156.38587137620794,156.11762745751417,0.0,0.26824391869376873,OverUpper
-National Protective Services Pty Ltd,Integrated security services,3686,2026.0,360491666.59,156.40245148110316,156.12121212121212,0.0,0.28123935989104526,OverUpper
-National Protective Services Pty Ltd,Integrated security services,3686,2027.0,362353730.7,157.50220563284697,157.19341703427213,0.0,0.3087885985748218,OverUpper
-National Protective Services Pty Ltd,Integrated security services,3686,2028.0,364011148.6,168.11944818304173,157.021534320323,10.817631224764469,0.2802826379542396,OverUpper
-National Protective Services Pty Ltd,Integrated security services,3686,2029.0,362614923.56,172.34847967201912,157.03040655961735,15.0,0.31807311240177655,OverUpper
+National Protective Services Pty Ltd,Integrated security services,3686,2025.0,367077259.1,156.39516396157669,156.12620072871812,0.0,0.26896323285856244,OverUpper
+National Protective Services Pty Ltd,Integrated security services,3686,2026.0,361036213.04,156.43172554347825,156.15115489130434,0.0,0.280570652173913,OverUpper
+National Protective Services Pty Ltd,Integrated security services,3686,2027.0,363272432.98,157.4957698815567,157.185448392555,0.0,0.31032148900169204,OverUpper
+National Protective Services Pty Ltd,Integrated security services,3686,2028.0,365678553.02,168.17414601473544,157.05994641661084,10.830542531815137,0.2836570663094441,OverUpper
+National Protective Services Pty Ltd,Integrated security services,3686,2029.0,364393164.45,172.32528070772372,157.00850629465805,15.0,0.3167744130656686,OverUpper
 National Protective Services Pty Ltd,Integrated security services,3686,2030.0,1845243.66,174.8181818181818,159.8181818181818,15.0,0.0,UnderLower
 National Protective Services Pty Ltd,Management of Active Melbourne recreation facilities, ,2026.0,230017.34,273.0,263.0,10.0,0.0,ContractMismatch
 National Protective Services Pty Ltd,Melbourne Town Hall venue management, ,2026.0,406439.65,223.66666666666666,213.66666666666666,10.0,0.0,ContractMismatch
@@ -289,34 +290,34 @@ Nationwide Towing Services,Street cleaning, ,2028.0,140037.64,239.0,229.0,10.0,0
 Nationwide Towing Services,Tree management maintenance services, ,2025.0,36821.9,219.0,209.0,10.0,0.0,ContractMismatch
 Nationwide Towing Services,Tree management maintenance services, ,2028.0,220875.79,239.0,229.0,10.0,0.0,ContractMismatch
 Nationwide Towing Services,Tree management maintenance services, ,2029.0,200000.0,273.0,263.0,10.0,0.0,ContractMismatch
-Nationwide Towing Services,Vehicle tow away and impound services, ,2025.0,18082290.56,162.76027397260273,152.56849315068493,10.0,0.1917808219178082,ContractMismatch
-Nationwide Towing Services,Vehicle tow away and impound services, ,2026.0,16810130.14,163.68707482993196,153.49659863945578,10.0,0.19047619047619047,ContractMismatch
+Nationwide Towing Services,Vehicle tow away and impound services, ,2025.0,18132421.55,162.7687074829932,152.57823129251702,10.0,0.19047619047619047,ContractMismatch
+Nationwide Towing Services,Vehicle tow away and impound services, ,2026.0,16892199.59,163.6216216216216,153.43243243243242,10.0,0.1891891891891892,ContractMismatch
 Nationwide Towing Services,Vehicle tow away and impound services, ,2027.0,16213124.41,164.30281690140845,153.90845070422534,10.0,0.39436619718309857,ContractMismatch
-Nationwide Towing Services,Vehicle tow away and impound services, ,2028.0,16140398.23,160.59230769230768,150.37692307692308,10.0,0.2153846153846154,ContractMismatch
-Nationwide Towing Services,Vehicle tow away and impound services, ,2029.0,17579443.19,163.5185185185185,153.46666666666667,10.0,0.05185185185185185,ContractMismatch
+Nationwide Towing Services,Vehicle tow away and impound services, ,2028.0,16304673.54,160.54198473282443,150.32824427480915,10.0,0.21374045801526717,ContractMismatch
+Nationwide Towing Services,Vehicle tow away and impound services, ,2029.0,17717280.61,163.27205882352942,153.22058823529412,10.0,0.051470588235294115,ContractMismatch
 Nationwide Towing Services,Vehicle tow away and impound services, ,2030.0,32473.44,158.0,148.0,10.0,0.0,ContractMismatch
-Nationwide Towing Services,Vehicle tow away and impound services,3585,2025.0,366123216.33,156.00811907983763,155.73579161028417,0.0,0.2723274695534506,OverUpper
-Nationwide Towing Services,Vehicle tow away and impound services,3585,2026.0,346850575.77,159.96159217877096,156.7070530726257,2.966131284916201,0.2884078212290503,OverUpper
-Nationwide Towing Services,Vehicle tow away and impound services,3585,2027.0,353286862.36,171.3863950276243,156.09633977900552,15.0,0.2900552486187845,OverUpper
-Nationwide Towing Services,Vehicle tow away and impound services,3585,2028.0,362760138.47,171.742378559464,156.46566164154103,15.0,0.27671691792294806,OverUpper
-Nationwide Towing Services,Vehicle tow away and impound services,3585,2029.0,357959880.48,170.97984011122696,155.70003475842893,15.0,0.2798053527980535,OverUpper
+Nationwide Towing Services,Vehicle tow away and impound services,3585,2025.0,367428872.21,156.00303132367802,155.72953856517347,0.0,0.27349275850454696,OverUpper
+Nationwide Towing Services,Vehicle tow away and impound services,3585,2026.0,349534276.49,159.9538994800693,156.7102253032929,2.954939341421144,0.28873483535528593,OverUpper
+Nationwide Towing Services,Vehicle tow away and impound services,3585,2027.0,355455299.06,171.46721592859595,156.1788534157226,15.0,0.2883625128733265,OverUpper
+Nationwide Towing Services,Vehicle tow away and impound services,3585,2028.0,363070986.36,171.74857907054496,156.47007689735875,15.0,0.27850217318622533,OverUpper
+Nationwide Towing Services,Vehicle tow away and impound services,3585,2029.0,359742404.19,170.98581805603598,155.70494638533378,15.0,0.28087167070217917,OverUpper
 Nationwide Towing Services,Vehicle tow away and impound services,3585,2030.0,838806.04,174.42857142857142,159.42857142857142,15.0,0.0,UnderLower
 Nationwide Towing Services,Waste management services, ,2025.0,209978.06,273.0,263.0,10.0,0.0,ContractMismatch
 Nationwide Towing Services,Waste management services, ,2026.0,0.0,256.0,239.0,10.0,7.0,ContractMismatch
 Programmed Facility Management Pty Ltd,Building cleaning services, ,2025.0,241386.79,215.0,205.0,10.0,0.0,ContractMismatch
-Programmed Facility Management Pty Ltd,Building cleaning services, ,2026.0,178013.8,273.0,263.0,10.0,0.0,ContractMismatch
+Programmed Facility Management Pty Ltd,Building cleaning services, ,2026.0,378013.8,273.0,263.0,10.0,0.0,ContractMismatch
 Programmed Facility Management Pty Ltd,Building cleaning services, ,2027.0,225389.69,273.0,263.0,10.0,0.0,ContractMismatch
 Programmed Facility Management Pty Ltd,Building cleaning services, ,2029.0,0.0,280.0,263.0,10.0,7.0,ContractMismatch
 Programmed Facility Management Pty Ltd,Building maintenance services, ,2025.0,19332441.45,161.41875,151.15625,10.0,0.2625,ContractMismatch
 Programmed Facility Management Pty Ltd,Building maintenance services, ,2026.0,15852142.53,164.49193548387098,154.20967741935485,10.0,0.28225806451612906,ContractMismatch
 Programmed Facility Management Pty Ltd,Building maintenance services, ,2027.0,16833620.27,166.44604316546761,156.24460431654677,10.0,0.2014388489208633,ContractMismatch
-Programmed Facility Management Pty Ltd,Building maintenance services, ,2028.0,16603640.01,162.78625954198472,152.57251908396947,10.0,0.21374045801526717,ContractMismatch
+Programmed Facility Management Pty Ltd,Building maintenance services, ,2028.0,16628310.34,162.53787878787878,152.32575757575756,10.0,0.21212121212121213,ContractMismatch
 Programmed Facility Management Pty Ltd,Building maintenance services, ,2029.0,19286931.06,169.66225165562915,159.33774834437085,10.0,0.32450331125827814,ContractMismatch
-Programmed Facility Management Pty Ltd,Building maintenance services,3630,2025.0,359059012.9,157.48061749571184,157.2164665523156,0.0,0.2641509433962264,OverUpper
-Programmed Facility Management Pty Ltd,Building maintenance services,3630,2026.0,368314121.66,161.81591530054644,156.66120218579235,4.882172131147541,0.2725409836065574,OverUpper
-Programmed Facility Management Pty Ltd,Building maintenance services,3630,2027.0,372470118.77,173.03752093802345,157.7959798994975,15.0,0.24154103852596315,OverUpper
-Programmed Facility Management Pty Ltd,Building maintenance services,3630,2028.0,370373227.01,172.59598287784,157.33783338821206,15.0,0.2581494896279223,OverUpper
-Programmed Facility Management Pty Ltd,Building maintenance services,3630,2029.0,363440865.4,172.1429534726905,156.86210384356036,15.0,0.2808496291301416,OverUpper
+Programmed Facility Management Pty Ltd,Building maintenance services,3630,2025.0,360286386.89,157.43247863247862,157.16923076923078,0.0,0.26324786324786326,OverUpper
+Programmed Facility Management Pty Ltd,Building maintenance services,3630,2026.0,369762205.9,161.8996939816389,156.7415844950697,4.884393063583815,0.2737164229853791,OverUpper
+Programmed Facility Management Pty Ltd,Building maintenance services,3630,2027.0,374604234.51,173.0120080053369,157.77151434289527,15.0,0.24049366244162776,OverUpper
+Programmed Facility Management Pty Ltd,Building maintenance services,3630,2028.0,371635000.18,172.67858314201376,157.4191538209249,15.0,0.2594293210888816,OverUpper
+Programmed Facility Management Pty Ltd,Building maintenance services,3630,2029.0,365161145.63,172.1491935483871,156.8692876344086,15.0,0.2799059139784946,OverUpper
 Programmed Facility Management Pty Ltd,Building maintenance services,3630,2030.0,462559.63,186.16666666666666,170.0,15.0,1.1666666666666667,UnderLower
 Programmed Facility Management Pty Ltd,Civil infrastructure services, ,2026.0,188932.75,243.0,233.0,10.0,0.0,ContractMismatch
 Programmed Facility Management Pty Ltd,Civil infrastructure services, ,2027.0,40046.37,239.0,229.0,10.0,0.0,ContractMismatch
@@ -373,15 +374,15 @@ Reino International Pty Ltd T/A Duncan Solutions,Open spaces management - region
 Reino International Pty Ltd T/A Duncan Solutions,Open spaces management - region 1, ,2029.0,195319.19,239.0,229.0,10.0,0.0,ContractMismatch
 Reino International Pty Ltd T/A Duncan Solutions,Open spaces management - region 2, ,2027.0,114258.45,215.0,205.0,10.0,0.0,ContractMismatch
 Reino International Pty Ltd T/A Duncan Solutions,Parking technology services, ,2025.0,19465205.47,163.3235294117647,153.03529411764706,10.0,0.28823529411764703,ContractMismatch
-Reino International Pty Ltd T/A Duncan Solutions,Parking technology services, ,2026.0,16930259.24,166.08955223880596,155.88059701492537,10.0,0.208955223880597,ContractMismatch
-Reino International Pty Ltd T/A Duncan Solutions,Parking technology services, ,2027.0,18298842.57,166.49668874172184,156.26490066225165,10.0,0.23178807947019867,ContractMismatch
-Reino International Pty Ltd T/A Duncan Solutions,Parking technology services, ,2028.0,19512814.46,166.2638036809816,155.96319018404907,10.0,0.3006134969325153,ContractMismatch
+Reino International Pty Ltd T/A Duncan Solutions,Parking technology services, ,2026.0,17130259.24,166.25185185185185,156.04444444444445,10.0,0.2074074074074074,ContractMismatch
+Reino International Pty Ltd T/A Duncan Solutions,Parking technology services, ,2027.0,18412435.66,166.63815789473685,156.4078947368421,10.0,0.23026315789473684,ContractMismatch
+Reino International Pty Ltd T/A Duncan Solutions,Parking technology services, ,2028.0,19696625.11,166.39634146341464,156.09756097560975,10.0,0.29878048780487804,ContractMismatch
 Reino International Pty Ltd T/A Duncan Solutions,Parking technology services, ,2029.0,22418776.96,164.44767441860466,154.36627906976744,10.0,0.08139534883720931,ContractMismatch
-Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2025.0,370281578.78,157.7877661372085,157.49915511997295,0.0,0.28861101723555255,OverUpper
-Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2026.0,356870838.61,170.46836734693878,157.7547619047619,12.394557823129253,0.319047619047619,OverUpper
-Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2027.0,356899024.93,172.76116373477672,157.45568335588632,15.0,0.3054803788903924,OverUpper
-Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2028.0,360404531.05,172.8348961821835,157.5207635632954,15.0,0.3141326188881447,OverUpper
-Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2029.0,377289549.51,172.97426591883865,157.68789178488947,15.0,0.2863741339491917,OverUpper
+Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2025.0,371730564.72,157.81218444968025,157.5200269269606,0.0,0.29215752271962303,OverUpper
+Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2026.0,358881086.49,170.48461278322625,157.76800811633413,12.399391274940818,0.317213391951302,OverUpper
+Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2027.0,359151831.87,172.77515987882867,157.4712218108381,15.0,0.30393806799057554,OverUpper
+Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2028.0,362324371.3,172.82427475825276,157.51150383461155,15.0,0.3127709236412137,OverUpper
+Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2029.0,380707244.95,173.07035340314135,157.78403141361255,15.0,0.2863219895287958,OverUpper
 Reino International Pty Ltd T/A Duncan Solutions,Parking technology services,3623,2030.0,582552.25,160.42857142857142,145.42857142857142,15.0,0.0,UnderLower
 Reino International Pty Ltd T/A Duncan Solutions,Street cleaning, ,2028.0,146970.26,273.0,263.0,10.0,0.0,ContractMismatch
 Reino International Pty Ltd T/A Duncan Solutions,Tree management maintenance services, ,2026.0,94097.1,256.0,246.0,10.0,0.0,ContractMismatch
@@ -412,17 +413,17 @@ SERCO,Open spaces management - region 1, ,2025.0,67569.71,219.0,209.0,10.0,0.0,C
 SERCO,Open spaces management - region 1, ,2027.0,56141.52,249.0,239.0,10.0,0.0,ContractMismatch
 SERCO,Open spaces management - region 1, ,2028.0,190386.04,273.0,263.0,10.0,0.0,ContractMismatch
 SERCO,Open spaces management - region 1, ,2029.0,119967.33,239.0,229.0,10.0,0.0,ContractMismatch
-SERCO,Open spaces management - region 2, ,2025.0,18808968.36,161.0,150.76666666666668,10.0,0.23333333333333334,ContractMismatch
+SERCO,Open spaces management - region 2, ,2025.0,18846380.4,160.79470198675497,150.56291390728478,10.0,0.23178807947019867,ContractMismatch
 SERCO,Open spaces management - region 2, ,2026.0,20225214.38,162.30188679245282,151.86163522012578,10.0,0.44025157232704404,ContractMismatch
 SERCO,Open spaces management - region 2, ,2027.0,18110477.19,159.69565217391303,149.4927536231884,10.0,0.2028985507246377,ContractMismatch
 SERCO,Open spaces management - region 2, ,2028.0,15171141.01,157.5703125,147.2421875,10.0,0.328125,ContractMismatch
 SERCO,Open spaces management - region 2, ,2029.0,18390650.68,158.5,148.1216216216216,10.0,0.3783783783783784,ContractMismatch
 SERCO,Open spaces management - region 2, ,2030.0,228719.0,130.0,120.0,10.0,0.0,ContractMismatch
-SERCO,Open spaces management - region 2,3677,2025.0,356380079.62,149.99720767888306,149.75043630017453,0.0,0.24677137870855148,OverUpper
-SERCO,Open spaces management - region 2,3677,2026.0,375356110.68,150.82539153615463,150.54081972675775,0.0,0.2845718093968677,OverUpper
-SERCO,Open spaces management - region 2,3677,2027.0,363552174.15,150.34782608695653,150.03875968992247,0.0,0.3090663970340411,OverUpper
-SERCO,Open spaces management - region 2,3677,2028.0,366479498.33,150.06940700808624,149.80592991913747,0.013477088948787063,0.25,OverUpper
-SERCO,Open spaces management - region 2,3677,2029.0,356034576.51,162.40999315537303,149.48254620123203,12.635181382614647,0.2922655715263518,OverUpper
+SERCO,Open spaces management - region 2,3677,2025.0,359027743.58,149.98022892819978,149.73257023933402,0.0,0.24765868886576484,OverUpper
+SERCO,Open spaces management - region 2,3677,2026.0,376202967.82,150.82602921646748,150.5401726427623,0.0,0.2858565737051793,OverUpper
+SERCO,Open spaces management - region 2,3677,2027.0,364431359.18,150.38978494623655,150.07694892473117,0.0,0.31283602150537637,OverUpper
+SERCO,Open spaces management - region 2,3677,2028.0,367611543.98,150.15129151291512,149.88661522978867,0.01341831600134183,0.25125796712512577,OverUpper
+SERCO,Open spaces management - region 2,3677,2029.0,356950586.43,162.44744027303753,149.5221843003413,12.631399317406144,0.2938566552901024,OverUpper
 SERCO,Open spaces management - region 2,3677,2030.0,1054944.31,169.55555555555554,153.77777777777777,15.0,0.7777777777777778,UnderLower
 SERCO,Parking technology services, ,2026.0,225158.52,229.0,219.0,10.0,0.0,ContractMismatch
 SERCO,Parking technology services, ,2027.0,32989.32,249.0,239.0,10.0,0.0,ContractMismatch
@@ -452,14 +453,14 @@ Showtime Event Group Pty Ltd,Management of Active Melbourne recreation facilitie
 Showtime Event Group Pty Ltd,Management of Active Melbourne recreation facilities, ,2028.0,236967.24,246.0,236.0,10.0,0.0,ContractMismatch
 Showtime Event Group Pty Ltd,Melbourne Town Hall venue management, ,2025.0,17472544.24,165.2317880794702,155.0,10.0,0.23178807947019867,ContractMismatch
 Showtime Event Group Pty Ltd,Melbourne Town Hall venue management, ,2026.0,20344758.89,165.96951219512195,155.6280487804878,10.0,0.34146341463414637,ContractMismatch
-Showtime Event Group Pty Ltd,Melbourne Town Hall venue management, ,2027.0,16908883.08,161.91780821917808,151.43835616438355,10.0,0.4794520547945205,ContractMismatch
+Showtime Event Group Pty Ltd,Melbourne Town Hall venue management, ,2027.0,16986552.81,161.70068027210885,151.22448979591837,10.0,0.47619047619047616,ContractMismatch
 Showtime Event Group Pty Ltd,Melbourne Town Hall venue management, ,2028.0,18349640.26,168.3793103448276,157.94482758620688,10.0,0.43448275862068964,ContractMismatch
 Showtime Event Group Pty Ltd,Melbourne Town Hall venue management, ,2029.0,21713133.419999998,166.12422360248448,155.9937888198758,10.0,0.13043478260869565,ContractMismatch
-Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2025.0,349415063.9,157.05352209944752,156.74412983425415,0.0,0.30939226519337015,OverUpper
-Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2026.0,369587397.08,157.22945320362294,156.94532036229452,0.0,0.28413284132841327,OverUpper
-Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2027.0,376155962.42,156.79540983606557,156.56360655737706,0.0,0.2318032786885246,OverUpper
-Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2028.0,365310497.91,157.7388385364216,157.45216515609266,0.0,0.28667338032896944,OverUpper
-Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2029.0,371657699.88,165.89630118890358,156.7324966974901,8.888705416116249,0.2750990752972259,OverUpper
+Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2025.0,351602364.39,157.0999313186813,156.79223901098902,0.0,0.3076923076923077,OverUpper
+Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2026.0,371086371.27,157.1806947227789,156.89779559118236,0.0,0.2828991315965264,OverUpper
+Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2027.0,377477717.68,156.8488903394256,156.61586161879896,0.0,0.23302872062663185,OverUpper
+Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2028.0,366296109.64,157.6885026737968,157.39839572192514,0.0,0.29010695187165775,OverUpper
+Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2029.0,373929631.05,165.92441669405193,156.76634899769965,8.884324679592508,0.2737430167597765,OverUpper
 Showtime Event Group Pty Ltd,Melbourne Town Hall venue management,3670,2030.0,1398747.09,170.8181818181818,155.8181818181818,15.0,0.0,WithinBounds
 Showtime Event Group Pty Ltd,Open spaces management - region 1, ,2029.0,200501.11,241.0,231.0,10.0,0.0,ContractMismatch
 Showtime Event Group Pty Ltd,Open spaces management - region 2, ,2026.0,185710.98,243.0,233.0,10.0,0.0,ContractMismatch
@@ -498,16 +499,16 @@ Spotless Facility Services Pty Ltd,Open spaces management - region 1, ,2025.0,46
 Spotless Facility Services Pty Ltd,Open spaces management - region 2, ,2025.0,231379.26,258.0,248.0,10.0,0.0,ContractMismatch
 Spotless Facility Services Pty Ltd,Open spaces management - region 2, ,2028.0,101054.84,239.0,229.0,10.0,0.0,ContractMismatch
 Spotless Facility Services Pty Ltd,Parking technology services, ,2026.0,249516.03,239.0,229.0,10.0,0.0,ContractMismatch
-Spotless Facility Services Pty Ltd,Street cleaning, ,2025.0,18790051.25,169.73333333333332,159.5,10.0,0.23333333333333334,ContractMismatch
+Spotless Facility Services Pty Ltd,Street cleaning, ,2025.0,19096317.36,169.97368421052633,159.7434210526316,10.0,0.23026315789473684,ContractMismatch
 Spotless Facility Services Pty Ltd,Street cleaning, ,2026.0,17789366.01,165.32867132867133,155.13286713286712,10.0,0.1958041958041958,ContractMismatch
-Spotless Facility Services Pty Ltd,Street cleaning, ,2027.0,15833328.13,169.0,158.63970588235293,10.0,0.3602941176470588,ContractMismatch
-Spotless Facility Services Pty Ltd,Street cleaning, ,2028.0,18273464.03,166.92142857142858,156.67142857142858,10.0,0.25,ContractMismatch
-Spotless Facility Services Pty Ltd,Street cleaning, ,2029.0,16125715.0,163.31654676258992,152.81294964028777,10.0,0.5035971223021583,ContractMismatch
-Spotless Facility Services Pty Ltd,Street cleaning,3669,2025.0,369177241.03,156.25133511348466,156.0130173564753,0.0,0.2383177570093458,WithinBounds
-Spotless Facility Services Pty Ltd,Street cleaning,3669,2026.0,361414950.47,156.70494037478704,156.38534923339012,0.0,0.31959114139693356,WithinBounds
-Spotless Facility Services Pty Ltd,Street cleaning,3669,2027.0,363276455.54,156.67529411764707,156.38117647058823,0.0,0.29411764705882354,WithinBounds
-Spotless Facility Services Pty Ltd,Street cleaning,3669,2028.0,373800020.37,158.20536601523682,157.928784365684,0.009937065253395164,0.2666445842994369,WithinBounds
-Spotless Facility Services Pty Ltd,Street cleaning,3669,2029.0,368104452.3,169.43165228931653,156.6970802919708,12.488387524883874,0.24618447246184472,WithinBounds
+Spotless Facility Services Pty Ltd,Street cleaning, ,2027.0,15995095.39,168.85507246376812,158.5,10.0,0.35507246376811596,ContractMismatch
+Spotless Facility Services Pty Ltd,Street cleaning, ,2028.0,18587399.88,166.95804195804195,156.71328671328672,10.0,0.24475524475524477,ContractMismatch
+Spotless Facility Services Pty Ltd,Street cleaning, ,2029.0,16156991.87,163.25,152.75,10.0,0.5,ContractMismatch
+Spotless Facility Services Pty Ltd,Street cleaning,3669,2025.0,370894569.35,156.234219269103,155.9970099667774,0.0,0.2372093023255814,WithinBounds
+Spotless Facility Services Pty Ltd,Street cleaning,3669,2026.0,362879286.72,156.7285374957584,156.41024770953513,0.0,0.3182897862232779,WithinBounds
+Spotless Facility Services Pty Ltd,Street cleaning,3669,2027.0,365116253.35,156.6361204013378,156.34113712374582,0.0,0.29498327759197324,WithinBounds
+Spotless Facility Services Pty Ltd,Street cleaning,3669,2028.0,375831776.08,158.1831960461285,157.90576606260296,0.009884678747940691,0.26754530477759475,WithinBounds
+Spotless Facility Services Pty Ltd,Street cleaning,3669,2029.0,370150329.28,169.43582975915538,156.7037281425272,12.482678983833718,0.24942263279445728,WithinBounds
 Spotless Facility Services Pty Ltd,Street cleaning,3669,2030.0,1602609.4100000001,169.0,154.0,15.0,0.0,UnderLower
 Spotless Facility Services Pty Ltd,Vehicle tow away and impound services, ,2025.0,0.0,280.0,263.0,10.0,7.0,ContractMismatch
 Spotless Facility Services Pty Ltd,Vehicle tow away and impound services, ,2029.0,89525.83,239.0,229.0,10.0,0.0,ContractMismatch
@@ -524,16 +525,16 @@ Victorian YMCA Community Programming Pty Ltd,Graffiti management and pressure cl
 Victorian YMCA Community Programming Pty Ltd,Graffiti management and pressure cleaning services, ,2027.0,35352.84,215.0,205.0,10.0,0.0,ContractMismatch
 Victorian YMCA Community Programming Pty Ltd,Integrated security services, ,2025.0,490821.26,233.5,223.5,10.0,0.0,ContractMismatch
 Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities, ,2025.0,16547843.98,172.25874125874125,161.96503496503496,10.0,0.2937062937062937,ContractMismatch
-Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities, ,2026.0,17062528.37,169.96478873239437,159.76760563380282,10.0,0.19718309859154928,ContractMismatch
-Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities, ,2027.0,15682816.97,169.56934306569343,159.1094890510949,10.0,0.45985401459854014,ContractMismatch
+Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities, ,2026.0,17162528.37,169.88111888111888,159.6853146853147,10.0,0.1958041958041958,ContractMismatch
+Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities, ,2027.0,16032877.62,169.58992805755395,159.13669064748203,10.0,0.45323741007194246,ContractMismatch
 Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities, ,2028.0,19480060.42,168.48648648648648,158.2972972972973,10.0,0.1891891891891892,ContractMismatch
 Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities, ,2029.0,19884807.63,166.8535031847134,156.71974522292993,10.0,0.1337579617834395,ContractMismatch
 Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities, ,2030.0,177522.0,188.0,178.0,10.0,0.0,ContractMismatch
-Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2025.0,370834603.37,157.76497848394573,157.49155908639523,0.0,0.27341939755047995,OverUpper
-Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2026.0,371156778.09,158.6512479201331,158.38103161397672,0.0,0.270216306156406,OverUpper
-Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2027.0,360769941.6,167.20509383378015,158.22285522788204,8.703083109919572,0.27915549597855227,OverUpper
-Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2028.0,362361266.16,173.27555555555554,157.99076923076922,15.0,0.28478632478632476,OverUpper
-Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2029.0,359507901.47,173.94770797962647,158.6981324278438,15.0,0.2495755517826825,OverUpper
+Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2025.0,372760359.1,157.73895847066578,157.46671061305207,0.0,0.2722478576137113,OverUpper
+Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2026.0,372609814.97,158.63386348575216,158.3648111332008,0.0,0.2690523525513585,OverUpper
+Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2027.0,362342998.5,167.2234823215477,158.23815877251502,8.707471647765177,0.2778519012675117,OverUpper
+Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2028.0,364494512.03,173.2471948316899,157.96157769466168,15.0,0.28561713702822167,OverUpper
+Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2029.0,361026946.13,173.9445945945946,158.6939189189189,15.0,0.25067567567567567,OverUpper
 Victorian YMCA Community Programming Pty Ltd,Management of Active Melbourne recreation facilities,3615,2030.0,1177507.22,177.1,161.4,15.0,0.7,UnderLower
 Victorian YMCA Community Programming Pty Ltd,Open spaces management - region 1, ,2026.0,247313.97,273.0,263.0,10.0,0.0,ContractMismatch
 Victorian YMCA Community Programming Pty Ltd,Open spaces management - region 1, ,2027.0,480631.99,250.33333333333334,240.33333333333334,10.0,0.0,ContractMismatch
